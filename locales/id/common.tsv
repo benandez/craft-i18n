@@ -34,7 +34,7 @@
 	Add Guide	Tambahkan panduan
 	Add to Dictionary	Tambahkan ke Kamus
 	Add to favorites	Tambahkan ke favorit
-	Add to Swatches	Tambahkan ke Swatches
+	Add to Swatches	Tambahkan ke Sampel Warna
 	Adjust	Sesuaikan
 	Adjustments	Penyesuaian
 	Advanced	Lanjutan
@@ -44,14 +44,14 @@
 	Align left	Sejajarkan ke kiri
 	Align Right	Ratakan Kanan
 	Align right	Sejajarkan ke kanan
-	Align to Selection	Ratakan ke seleksi
+	Align to Selection	Ratakan ke Seleksi
 	Alignment	Perataan
 	Alignment:	Perataan:
 	All	Semua
-	All Caps	Semua kapital
-	All Categories	Semua kategori
+	All Caps	Semua Kapital
+	All Categories	Semua Kategori
 	All Layers	Semua lapisan
-	All Slices	Semua slice
+	All Slices	Semua Irisan
 	Alpha	Alfa
 	Alt	Alt
 	Always	Selalu
@@ -63,7 +63,7 @@
 	Animation	Animasi
 	Anti-Alias	Anti-alias
 	Anti-alias	Anti-alias
-	Any	Salah Satu
+	Any	Apa pun
 	Appearance	Tampilan
 theme	Appearance	Tampilan
 	Appearance Settings…	Pengaturan Tampilan…
@@ -111,7 +111,7 @@ theme	Appearance	Tampilan
 	Bitmap	Bitmap
 	Black	Hitam
 	Black & White	Hitam & Putih
-	Black and white	Hitam putih
+	Black and white	Hitam dan putih
 	Black Intensity	Intensitas hitam
 	Blacks	Hitam
 	Blend Mode	Mode Campur
@@ -177,7 +177,7 @@ theme	Appearance	Tampilan
 	Clear All	Hapus Semua
 	Clear Guides	Hapus panduan
 	Clear History	Hapus riwayat
-	Clear Recent Files	Hapus Daftar Berkas Terakhir
+	Clear Recent Files	Hapus Daftar Berkas Terbaru
 	Clipboard	Clipboard
 	Clipping Mask	Masker kliping
 	Clone	Klon
@@ -193,7 +193,7 @@ theme	Appearance	Tampilan
 	Color	Warna
 	Color Balance	Keseimbangan Warna
 	Color Burn	Bakar warna
-	Color Dodge	Dodge warna
+	Color Dodge	Hindari warna
 	Color Management	Manajemen Warna
 	Color Mode	Mode warna
 	Color Picker	Pemilih warna
@@ -261,19 +261,19 @@ theme	Appearance	Tampilan
 	Cut	Potong
 	Cyan	Sian
 	Dark	Gelap
-	Dark Gray	Abu-abu gelap
+	Dark Gray	Abu-abu Gelap
 	Dark gray	Abu-abu gelap
-	Dark Strokes	Sapuan gelap
+	Dark Strokes	Sapuan Gelap
 	Dark Theme	Tema Gelap
 	Darken	Gelapkan
 	Darkness	Kegelapan
 	Dashed	Putus-putus
-	Data Sets	Set data
+	Data Sets	Pengaturan data
 	Date Created	Tanggal Dibuat
 	Dates	Tanggal
 	De-Interlace	De-Interlace
 	Decrease Font Size	Perkecil ukuran font
-	Default	Default
+	Default	Bawaan
 	Delete	Hapus
 	Delete Brush	Hapus kuas
 	Delete Group	Hapus grup
@@ -383,13 +383,13 @@ theme	Appearance	Tampilan
 	Export…	Ekspor…
 	Exposure	Eksposur
 	Extract	Ekstrak
-	Eyedropper	Penadah warna
+	Eyedropper	Pipet warna
 	Eyedropper Tool	Alat pipet
 	Faded Film	Film Pudar
 	Fast	Cepat
 	Favorites	Favorit
 	Feather	Feather
-	Fields:	Field:
+	Fields:	Bidang:
 	File	Berkas
 	File Format	Format Berkas
 	File Handling	Penanganan berkas
@@ -397,7 +397,7 @@ theme	Appearance	Tampilan
 	File Name	Nama Berkas
 	File Size	Ukuran Berkas
 @id	file.close	berkas.tutup
-	Files	File
+	Files	Berkas
 	Fill	Isian
 	Fill:	Isian:
 	Filter	Filter
@@ -419,7 +419,7 @@ theme	Appearance	Tampilan
 	Focus	Fokus
 	Folder	Folder
 	Font	Font
-	Font Size	Ukuran font
+	Font Size	Ukuran Font
 	Font size	Ukuran font
 	Font Size:	Ukuran Font:
 	Font:	Font:
@@ -468,7 +468,7 @@ theme	Appearance	Tampilan
 	Green	Hijau
 	Grid	Kisi
 	Grid Size:	Ukuran kisi:
-	Gridline every	Garis grid setiap
+	Gridline every	Jarak Garis Kisi
 	Group	Grupkan
 	Group with	Grupkan dengan
 	Groups	Grup
@@ -500,7 +500,7 @@ theme	Appearance	Tampilan
 	Histogram	Histogram
 	History	Riwayat
 	Hollow	Berongga
-	Home	Home
+	Home	Beranda
 	Horizontal	Horizontal
 	Horizontal scale	Skala horizontal
 	Horizontally	Secara Horizontal
@@ -708,13 +708,13 @@ theme	Appearance	Tampilan
 	No	Tidak
 	No Color	Tanpa Warna
 	No Dither	Tanpa dither
-	No Document	Tidak ada dokumen
+	No Document	Tidak ada Dokumen
 	No document	Tidak ada dokumen
 	No document open	Tidak ada dokumen terbuka
 	No matches.	Tidak ada yang cocok.
 	No matching commands	Tidak ada perintah yang cocok
 	No results	Tidak ada hasil
-	No Selection	Tidak ada seleksi
+	No Selection	Tidak ada Seleksi
 	No selection	Tidak ada seleksi
 	Noise	Derau
 	Nonbreaking Space	Spasi tanpa putus
@@ -855,7 +855,7 @@ theme	Appearance	Tampilan
 	Real name	Nama asli
 	Recent	Terbaru
 	Recent Colors	Warna terbaru
-	Recent Files	File terkini
+	Recent Files	Berkas Terbaru
 	Recover	Pulihkan
 	Rectangle	Persegi Panjang
 	Rectangle Tool	Alat persegi panjang
@@ -872,7 +872,7 @@ theme	Appearance	Tampilan
 	Relaxed	Santai
 	Relief	Relief
 	Remove	Hapus
-	Remove Background	Hapus Background
+	Remove Background	Hapus Latar Belakang
 	Remove from favorites	Hapus dari favorit
 	Rename	Ganti Nama
 	Rename Group…	Ganti nama grup…
@@ -980,8 +980,8 @@ theme	Appearance	Tampilan
 	Show in Folder	Tampilkan di folder
 	Show Mask	Tampilkan Masker
 	Show Mesh	Tampilkan mesh
-	Show Rulers	Tampilkan penggaris
-	Show rulers	Tampilkan Penggaris
+	Show Rulers	Tampilkan Penggaris
+	Show rulers	Tampilkan penggaris
 	Show Tool Tips	Tampilkan tips alat
 	Show:	Tampilkan:
 	Sides:	Sisi:
@@ -990,9 +990,9 @@ theme	Appearance	Tampilan
 	Size:	Ukuran:
 	Sketch	Sketsa
 	Skew	Miring
-	Slice	Slice
-	Slice Options	Opsi irisan
-	Slice Options…	Opsi slice…
+	Slice	Irisan
+	Slice Options	Opsi Irisan
+	Slice Options…	Opsi Irisan…
 	Slice Tool	Alat iris
 	Slices	Slice
 	Small	Kecil
@@ -1166,7 +1166,7 @@ theme	Appearance	Tampilan
 	Windows	Jendela
 	Working CMYK	CMYK kerja
 	Workspace	Ruang kerja
-	Workspaces	Ruang Kerja
+	Workspaces	Ruang kerja
 	X	X
 	Y	Y
 	Yellow	Kuning
