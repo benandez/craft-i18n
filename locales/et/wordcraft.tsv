@@ -296,6 +296,7 @@
 	Check Box Content Control	Märkeruudu sisujuhtelement
 	Check Compatibility	Kontrolli ühilduvust
 	Check for Errors	Kontrolli vigu
+	Check for updates	Otsi värskendusi
 	Check Spelling as You Type	Kontrolli õigekirja kirjutamise ajal
 	Check spelling as you type	Kontrolli õigekirja kirjutamise ajal
 	Check\nAccessibility	Kontrolli\nligipääsetavust
@@ -482,6 +483,7 @@
 	Direction	Suund
 	Directory	Kataloog
 	Discord community	Discordi kogukond
+	Dismiss	Sulge teade
 	Display for Review	Kuva läbivaatuseks
 	Display text	Kuvatav tekst
 	Distance from text	Kaugus tekstist
@@ -524,6 +526,7 @@
 	Double strikethrough	Kahekordne läbikriipsutus
 	Double Underline	Kahekordne allajoon
 	Doughnut	Rõngas
+	Download	Laadi alla
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Lohista ristkülik, et joonistada tabel, või joon üle lahtrite, et need tükeldada. Esc lõpetab.
 	Draw Ink	Joonista tindiga
 	Draw Table	Joonista tabel
@@ -1166,6 +1169,7 @@
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Vanad menüüklahvid: Alt, {keys}. Jätkake tippimist või tühistage Esc-klahviga.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Sees: tekstikursor libiseb tippimisel või nooleklahvide kasutamisel uude kohta ja selle vilkumine hajub sujuvalt. Väljas: kursor hüppab ja vilgub järsult.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Sees: WordCraft avaneb vaates Fail › Avaleht, kus on tühi dokument, mallid ja hiljutised dokumendid. Väljas: avaneb tühi dokument.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	Küsi kord päevas GitHubilt, kas WordCrafti uuem versioon on välja tulnud, ja näita teadet. Muud midagi ei saadeta.
 	One	Üks
 	One label per recipient	Üks silt saaja kohta
 	One line per item. Enter adds an item.	Üks rida üksuse kohta. Sisestusklahv lisab üksuse.
@@ -1180,6 +1184,7 @@
 	Only web (http, https) and email (mailto) links can be followed	Avada saab ainult veebi- (http, https) ja e-posti (mailto) linke
 	Open a document first	Avage kõigepealt dokument
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Ava fail WordCrafti enda failisirvijaga, kui süsteemi failidialoog ei ilmu.
+	Open the release page in your browser	Ava väljalaske leht brauseris
 	OpenDocument Text (*.odt)	OpenDocumenti tekst (*.odt)
 	Opening print dialog…	Prindidialoogi avamine…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	Edaspidi avatakse .docx-, .doc-, .rtf- ja .odt-failid ning Wordi mallid WordCraftiga.
@@ -1628,6 +1633,7 @@
 	Skip Citations and Bibliography	Jäta viited ja allikaloend vahele
 	Skip Record If	Jäta kirje vahele, kui
 	Skip Record If…	Jäta kirje vahele, kui…
+	Skip this version	Jäta see versioon vahele
 	Slant Down	Kalle alla
 	Slant Up	Kalle üles
 	Small caps	Kapiteelkiri
@@ -1941,6 +1947,7 @@
 	WordArt Styles	WordArti laadid
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft on nüüd Wordi dokumentide vaikerakendus.
+	WordCraft {version} is available.	WordCraft {version} on saadaval.
 	Words only	Ainult sõnad
 	Wrap Text	Mähi tekst
 	Wrap Text Sides	Mähkimise küljed

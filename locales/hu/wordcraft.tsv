@@ -597,6 +597,7 @@
 	Direct formatting	Közvetlen formázás
 	Directory	Címjegyzék
 	Discord community	Discord-közösség
+	Dismiss	Bezárás
 	Display for Review	Megjelenítés véleményezéshez
 	Display text	Megjelenített szöveg
 	Distance from text	Távolság a szövegtől
@@ -1426,6 +1427,7 @@
 	Omit	Elhagyás
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Be: gépeléskor és a nyílbillentyűk használatakor a kurzor csúszva mozog az új helyére, és halványulva villog. Ki: a kurzor ugrik, és egyszerűen ki-be villog.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Be: a WordCraft a Fájl › Kezdőlap oldalon nyílik meg, üres dokumentummal, a sablonokkal és a legutóbbi dokumentumokkal. Ki: üres dokumentumot nyit meg.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	Naponta egyszer megkérdezi a GitHubot, megjelent-e újabb WordCraft-kiadás, és értesítést mutat. Más adat nem kerül elküldésre.
 	One	Egy
 	One half	Egy ketted
 	One label per recipient	Címzettenként egy címke
@@ -1441,6 +1443,7 @@
 	Only web (http, https) and email (mailto) links can be followed	Csak webes (http, https) és e-mail (mailto) link nyitható meg
 	Open a document first	Először nyisson meg egy dokumentumot
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Fájl megnyitása a WordCraft saját tallózójával, ha a rendszer fájlpárbeszédablaka nem jelenik meg.
+	Open the release page in your browser	A kiadás oldalának megnyitása a böngészőben
 	OpenDocument Text (*.odt)	OpenDocument szöveg (*.odt)
 	Opening print dialog…	Nyomtatási párbeszédablak megnyitása…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	Mostantól a .docx, .doc, .rtf és .odt fájlok, valamint a Word-sablonok a WordCrafttal nyílnak meg.
@@ -1942,6 +1945,7 @@
 	Skip Citations and Bibliography	Hivatkozások és irodalomjegyzék kihagyása
 	Skip Record If	Rekord kihagyása, ha
 	Skip Record If…	Rekord kihagyása, ha…
+	Skip this version	Ennek a verziónak a kihagyása
 	Slant Down	Dőlés lefelé
 	Slant Up	Dőlés felfelé
 	Small caps	Kiskapitális
@@ -2321,6 +2325,7 @@
 	WordArt Styles	WordArt-stílusok
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	Mostantól a WordCraft az alapértelmezett alkalmazás a Word-dokumentumokhoz.
+	WordCraft {version} is available.	A WordCraft {version} elérhető.
 	Words only	Csak szavak
 	Wrap Text	Szöveg körbefuttatása
 	Wrap Text Sides	Körbefuttatás oldalai

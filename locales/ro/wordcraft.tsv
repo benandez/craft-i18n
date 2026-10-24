@@ -419,6 +419,7 @@
 	Check Box Content Control	Control de conținut casetă de selectare
 	Check Compatibility	Verificare compatibilitate
 	Check for Errors	Căutare erori
+	Check for updates	Caută actualizări
 	Check Spelling as You Type	Verificare ortografie pe măsură ce scrieți
 	Check spelling as you type	Verificați ortografia pe măsură ce scrieți
 	Check\nAccessibility	Verificare\naccesibilitate
@@ -699,6 +700,7 @@
 	Directory	Director
 	Discord	Discord
 	Discord community	Comunitatea Discord
+	Dismiss	Închide
 	Display	Afișare
 	Display for Review	Afișare pentru revizuire
 	Display name	Nume afișat
@@ -766,6 +768,7 @@
 	Double Vertical Bars	Bare verticale duble
 	Doughnut	Inel
 	Down	Jos
+	Download	Descarcă
 	DRAFT	CIORNĂ
 	Draft	Ciornă
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Trageți un dreptunghi pentru a desena un tabel sau o linie peste celule pentru a le împărți. Esc oprește.
@@ -1679,6 +1682,7 @@ template	Letter	Scrisoare
 	On	Activat
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Activat: cursorul alunecă în noul loc când scrieți sau folosiți tastele săgeți, iar clipirea lui se estompează. Dezactivat: sare și clipește.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Activat: WordCraft se deschide la Fișier › Pornire, cu un document gol, șabloanele și documentele dvs. recente. Dezactivat: se deschide un document gol.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	O dată pe zi, întreabă GitHub dacă a apărut o versiune WordCraft mai nouă și afișează o notificare. Nu se trimite nimic altceva.
 	One	Unu
 	One half	O jumătate
 	One label per recipient	O etichetă per destinatar
@@ -1695,6 +1699,7 @@ template	Letter	Scrisoare
 	Open	Deschidere
 	Open a document first	Deschideți mai întâi un document
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Deschideți un fișier cu propriul browser al WordCraft când dialogul de fișiere al sistemului nu apare.
+	Open the release page in your browser	Deschide pagina versiunii în browser
 	OpenDocument Text (*.odt)	Text OpenDocument (*.odt)
 	Opening print dialog…	Se deschide dialogul de imprimare…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	De acum, deschide fișierele .docx, .doc, .rtf și .odt și șabloanele Word cu WordCraft.
@@ -2284,6 +2289,7 @@ template	Letter	Scrisoare
 	Skip Citations and Bibliography	Omitere citări și bibliografie
 	Skip Record If	Omite înregistrarea dacă
 	Skip Record If…	Omite înregistrarea dacă…
+	Skip this version	Omite această versiune
 	Slant Down	Înclinat în jos
 	Slant Up	Înclinat în sus
 	Small Caps	Majuscule mici
@@ -2741,6 +2747,7 @@ preview	Title	Titlu
 	WordArt Styles	Stiluri WordArt
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft este acum aplicația implicită pentru documentele Word.
+	WordCraft {version} is available.	WordCraft {version} este disponibil.
 	Words	Cuvinte
 	Words only	Doar cuvinte
 	Wrap Text	Încadrare text

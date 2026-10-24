@@ -316,6 +316,7 @@
 	Check Box Content Control	チェック ボックス コンテンツ コントロール
 	Check Compatibility	互換性チェック
 	Check for Errors	エラーのチェック
+	Check for updates	更新を確認する
 	Check Spelling as You Type	入力時にスペル チェックを行う
 	Check spelling as you type	入力中にスペル チェックを行う
 	Check\nAccessibility	アクセシビリティ チェック
@@ -1234,6 +1235,7 @@
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	旧メニュー キー: Alt, {keys}。続けて入力するか、Esc キーで取り消します。
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	オン: 入力や矢印キーの操作でカーソルが新しい位置へ滑らかに移動し、点滅もフェードします。オフ: カーソルは瞬時に移動し、点滅は表示と非表示が切り替わるだけです。
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	オン: WordCraft は [ファイル] › [ホーム] で開き、白紙の文書、テンプレート、最近使った文書を表示します。オフ: 白紙の文書を開きます。
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	1 日に 1 回、新しい WordCraft のリリースがあるか GitHub に問い合わせ、通知を表示します。それ以外の情報は送信されません。
 	One	1 段
 	One label per recipient	宛先ごとに 1 枚のラベル
 	One line per item. Enter adds an item.	1 行に 1 項目。Enter キーで項目を追加します。
@@ -1248,6 +1250,7 @@
 	Only web (http, https) and email (mailto) links can be followed	開けるのは Web（http、https）とメール（mailto）のリンクだけです
 	Open a document first	先に文書を開いてください
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	システムのファイル ダイアログが表示されないときに、WordCraft 独自のブラウザーでファイルを開きます。
+	Open the release page in your browser	リリース ページをブラウザーで開く
 	OpenDocument Text (*.odt)	OpenDocument テキスト (*.odt)
 	Opening print dialog…	印刷ダイアログを開いています…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	今後、.docx、.doc、.rtf、.odt ファイルと Word テンプレートを WordCraft で開きます。
@@ -1719,6 +1722,7 @@
 	Skip Citations and Bibliography	引用と参考文献をスキップ
 	Skip Record If	レコードをスキップする条件
 	Skip Record If…	レコードをスキップする条件…
+	Skip this version	このバージョンをスキップ
 	Slant Down	右下がり
 	Slant Up	右上がり
 	Small Caps	小型英大文字
@@ -2043,6 +2047,7 @@
 	WordArt Styles	ワードアートのスタイル
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft が Word 文書の既定のアプリになりました。
+	WordCraft {version} is available.	WordCraft {version} が利用可能です。
 	Words only	単語のみ
 	Wrap Text	文字列の折り返し
 	Wrap Text Sides	文字を配置する側

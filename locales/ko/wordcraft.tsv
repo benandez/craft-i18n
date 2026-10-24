@@ -364,6 +364,7 @@
 	Check Box Content Control	확인란 콘텐츠 컨트롤
 	Check Compatibility	호환성 검사
 	Check for Errors	오류 검사
+	Check for updates	업데이트 확인
 	Check Spelling as You Type	입력할 때 맞춤법 검사
 	Check spelling as you type	입력할 때 맞춤법 검사
 	Check\nAccessibility	접근성\n검사
@@ -1374,6 +1375,7 @@
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	이전 메뉴 키: Alt, {keys}. 계속 입력하거나 Esc 키를 눌러 취소하세요.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	사용: 입력하거나 방향키를 누르면 커서가 새 위치로 부드럽게 이동하고 깜박임이 서서히 사라집니다. 사용 안 함: 커서가 바로 이동하고 깜박임이 켜졌다 꺼집니다.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	켜기: WordCraft를 실행하면 파일 › 홈에 빈 문서, 서식 파일 및 최근 문서가 표시됩니다. 끄기: 빈 문서가 열립니다.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	하루에 한 번 GitHub에 새 WordCraft 릴리스가 나왔는지 물어보고 알림을 표시합니다. 그 외에는 아무것도 전송되지 않습니다.
 	One	하나
 	One half	2분의 1
 	One label per recipient	받는 사람마다 레이블 하나
@@ -1388,6 +1390,7 @@
 	Only web (http, https) and email (mailto) links can be followed	웹(http, https) 및 이메일(mailto) 링크만 열 수 있습니다.
 	Open a document first	먼저 문서를 여세요
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	시스템 파일 대화상자가 나타나지 않을 때 WordCraft의 파일 브라우저로 파일을 엽니다.
+	Open the release page in your browser	브라우저에서 릴리스 페이지 열기
 	OpenDocument Text (*.odt)	OpenDocument Text (*.odt)
 	Opening print dialog…	인쇄 대화 상자 여는 중…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	이제부터 .docx, .doc, .rtf, .odt 파일과 Word 템플릿을 WordCraft에서 엽니다.
@@ -1877,6 +1880,7 @@
 	Skip Citations and Bibliography	인용 및 참고 문헌 건너뛰기
 	Skip Record If	조건에 따라 레코드 건너뛰기
 	Skip Record If…	조건에 따라 레코드 건너뛰기…
+	Skip this version	이 버전 건너뛰기
 	Slant Down	아래쪽 기울임
 	Slant Up	위쪽 기울임
 	Small caps	작은 대문자
@@ -2244,6 +2248,7 @@ preview	Title	제목
 	WordArt Styles	WordArt 스타일
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	이제 WordCraft가 Word 문서의 기본 앱입니다.
+	WordCraft {version} is available.	WordCraft {version}을(를) 사용할 수 있습니다.
 	Words only	단어만
 	Wrap Text	텍스트 줄 바꿈
 	Wrap Text Sides	텍스트 배치 측면

@@ -299,6 +299,7 @@
 	Check Box Content Control	Kontrola sadržaja za polje za potvrdu
 	Check Compatibility	Provera kompatibilnosti
 	Check for Errors	Provera grešaka
+	Check for updates	Proveravaj ažuriranja
 	Check Spelling as You Type	Provera pravopisa dok pišete
 	Check spelling as you type	Proveravaj pravopis tokom kucanja
 	Check\nAccessibility	Provera\npristupačnosti
@@ -489,6 +490,7 @@
 	Direct formatting	Direktno formatiranje
 	Directory	Imenik
 	Discord community	Zajednica na Discord-u
+	Dismiss	Zatvori
 	Display	Prikaz
 	Display for Review	Prikaz za pregled
 	Display text	Prikazani tekst
@@ -535,6 +537,7 @@
 	Double Underline	Duplo podvučeno
 	Doughnut	Prstenasti
 	Down	Dole
+	Download	Preuzmi
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Prevucite pravougaonik da nacrtate tabelu ili liniju preko ćelija da ih podelite. Esc završava.
 	Draw Ink	Crtaj mastilom
 	Draw Table	Nacrtaj tabelu
@@ -1174,6 +1177,7 @@
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Stari tasteri menija: Alt, {keys}. Nastavite da kucate ili pritisnite Esc da otkažete.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Uključeno: kursor klizi na novo mesto dok kucate ili koristite strelice, a njegovo treptanje se postepeno gasi. Isključeno: skače i trepće naglo.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Uključeno: WordCraft se otvara na Fajl › Početak, sa praznim dokumentom, šablonima i nedavnim dokumentima. Isključeno: otvara prazan dokument.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	Jednom dnevno pitaj GitHub da li je izašlo novije izdanje WordCraft-a i prikaži obaveštenje. Ništa drugo se ne šalje.
 	One	Jedna
 	One label per recipient	Jedna nalepnica po primaocu
 	One line per item. Enter adds an item.	Jedan red po stavci. Enter dodaje stavku.
@@ -1188,6 +1192,7 @@
 	Only web (http, https) and email (mailto) links can be followed	Mogu se otvoriti samo veb (http, https) i veze za e-poštu (mailto)
 	Open a document first	Prvo otvorite dokument
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Otvorite datoteku pomoću WordCraft-ovog pregledača kada se sistemski dijalog za datoteke ne pojavi.
+	Open the release page in your browser	Otvori stranicu izdanja u pregledaču
 	OpenDocument Text (*.odt)	OpenDocument tekst (*.odt)
 	Opening print dialog…	Otvara se dijalog za štampu…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	Od sada će se .docx, .doc, .rtf i .odt datoteke i Word šabloni otvarati u WordCraft-u.
@@ -1641,6 +1646,7 @@
 	Skip Citations and Bibliography	Preskoči citate i bibliografiju
 	Skip Record If	Preskoči zapis ako
 	Skip Record If…	Preskoči zapis ako…
+	Skip this version	Preskoči ovu verziju
 	Slant Down	Nagib nadole
 	Slant Up	Nagib nagore
 	Small Caps	Kapitelke
@@ -1954,6 +1960,7 @@
 	WordArt Styles	WordArt stilovi
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft je sada podrazumevana aplikacija za Word dokumente.
+	WordCraft {version} is available.	Dostupna je verzija WordCraft {version}.
 	Words only	Samo reči
 	Wrap Text	Prelomi tekst
 	Wrap Text Sides	Strane preloma teksta

@@ -1376,6 +1376,7 @@
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Teclas de menú antiguas: Alt, {keys}. Siga escribiendo o pulse Esc para cancelar.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Activado: el cursor se desliza hasta su nueva posición al escribir o usar las flechas, y su parpadeo se desvanece. Desactivado: salta y parpadea de golpe.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Activado: WordCraft se abre en Archivo › Inicio, con un documento en blanco, las plantillas y tus documentos recientes. Desactivado: abre un documento en blanco.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	Una vez al día, preguntar a GitHub si hay una versión más reciente de WordCraft y mostrar un aviso. No se envía nada más.
 	One	Una
 	One half	Un medio
 	One label per recipient	Una etiqueta por destinatario
@@ -1391,6 +1392,7 @@
 	Only web (http, https) and email (mailto) links can be followed	Solo se pueden seguir vínculos web (http, https) y de correo electrónico (mailto)
 	Open a document first	Abra primero un documento
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Abre un archivo con el explorador propio de WordCraft cuando no aparece el cuadro de diálogo de archivos del sistema.
+	Open the release page in your browser	Abrir la página de la versión en el navegador
 	OpenDocument Text (*.odt)	Texto de OpenDocument (*.odt)
 	Opening print dialog…	Abriendo el cuadro de diálogo de impresión…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	A partir de ahora, los archivos .docx, .doc, .rtf y .odt y las plantillas de Word se abren con WordCraft.
@@ -1888,6 +1890,7 @@
 	Skip Citations and Bibliography	Omitir citas y bibliografía
 	Skip Record If	Omitir registro si
 	Skip Record If…	Omitir registro si…
+	Skip this version	Omitir esta versión
 	Slant Down	Inclinación hacia abajo
 	Slant Up	Inclinación hacia arriba
 	Small caps	Versalitas
@@ -2263,6 +2266,7 @@ preview	Title	Título
 	WordArt Styles	Estilos de WordArt
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft es ahora la aplicación predeterminada para los documentos de Word.
+	WordCraft {version} is available.	WordCraft {version} está disponible.
 	Words only	Solo palabras
 	Wrap Text	Ajustar texto
 	Wrap Text Sides	Lados del ajuste
