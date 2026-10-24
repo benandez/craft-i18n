@@ -61,6 +61,7 @@
 	Above the item	Iznad stavke
 	Absolute value cases	Slučajevi apsolutne vrijednosti
 	Accent	Naglasak
+	accent	akcent
 	Accent Gradient	Prijelaz naglaska
 	Accent with Reflection	Naglasak s odrazom
 	Accent {n}	Naglasak {n}
@@ -185,6 +186,7 @@
 	Atmosphere	Atmosfera
 	Attach Template	Priloži predložak
 	Attach…	Priloži…
+	auto	auto
 	AutoCorrect	Automatski ispravak
 	AutoCorrect Options	Mogućnosti automatskog ispravka
 	AutoFit	Automatsko prilagođavanje
@@ -213,6 +215,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Automatsko spremanje sprema svaku promjenu u datoteku (potreban je spremljen dokument)
 	AutoSave writes your changes to the file a moment after you stop typing.	Automatsko spremanje zapisuje vaše promjene u datoteku trenutak nakon što prestanete tipkati.
 	AutoText	Automatski tekst
+	Axis	Os
+	Axis Labels	Oznake osi
+	Axis line	Crta osi
+	Axis Titles	Naslovi osi
 	B4 (JIS)   10.12" × 14.33"	B4 (JIS)   10.12" × 14.33"
 	B5 (JIS)   7.17" × 10.12"	B5 (JIS)   7.17" × 10.12"
 	Balloons	Oblačići
@@ -505,6 +511,7 @@
 	Current - Professional	Trenutačno – profesionalno
 	Current Position	Trenutačni položaj
 	Current record	Trenutni zapis
+	Current Selection	Trenutni odabir
 	Current style: {style}	Trenutačni stil: {style}
 	Curved Arrow Connector	Zakrivljeni strelasti konektor
 	Curved Connector	Zakrivljeni konektor
@@ -531,6 +538,7 @@
 	Dark with Shadow	Tamno sa sjenom
 	Darkroom	Mračna komora
 	Data Labels	Oznake podataka
+	Data labels	Oznake podataka
 	Date & Time	Datum i vrijeme
 	Date formats:	Formati datuma:
 	Date Picker Content Control	Kontrola sadržaja za odabir datuma
@@ -772,6 +780,7 @@
 	File name:	Naziv datoteke:
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Datoteka › Novo prikazuje predloške .dotx i .dotm odavde pod Osobno; Spremi kao Wordov predložak počinje ovdje.
 	Fill color:	Boja ispune:
+	Fill:	Ispuna:
 	Filling in forms	Ispunjavanje obrazaca
 	Film	Film
 	Filter and Sort	Filtriranje i sortiranje
@@ -813,9 +822,14 @@
 	Footnotes and endnotes	Fusnote i bilješke na kraju
 	Footnotes to endnotes	Fusnote u bilješke na kraju
 	For which item:	Za koju stavku:
+	Format Axis	Oblikuj os
+	Format Axis…	Oblikuj os…
 	Format Page Numbers	Oblikuj brojeve stranica
 	Format Page Numbers…	Oblikuj brojeve stranica…
 	Format Painter	Kist za oblikovanje
+	Format Selection	Oblikuj odabir
+	Format Series	Oblikuj seriju
+	Format Series…	Oblikuj seriju…
 	Format Shape	Oblikovanje oblika
 	Format Shape Pane	Okno Oblikovanje oblika
 	Format Shape…	Oblikuj oblik…
@@ -1172,6 +1186,7 @@ template	Letter	Pismo
 	Link level to style:	Poveži razinu sa stilom:
 	Link to Previous	Poveži s prethodnim
 	Link to:	Poveži s:
+	linked	povezano
 	Linked style (paragraph and character)	Povezani stil (odlomak i znak)
 	Links and References	Poveznice i reference
 	Link…	Poveznica…
@@ -1205,6 +1220,7 @@ template	Letter	Pismo
 	Mail Merge	Spajanje pošte
 	Mailings	Pošta
 	Main entry:	Glavni unos:
+	Major gridlines	Glavne mrežne crte
 	Make WordCraft the default for Word documents…	Postavi WordCraft kao zadani program za Word dokumente…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Povećava ili smanjuje vrpcu, izbornike i dijaloške okvire. Automatski prati skaliranje zaslona u sustavu; 100 % je jedan piksel zaslona po točki. Zumiranje dokumenta postavlja se zasebno.
 	Manage Sources	Upravljanje izvorima
@@ -1228,6 +1244,7 @@ template	Letter	Pismo
 	Mark\nCitation	Označi\ncitat
 	Mark\nEntry	Označi\nunos
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Oznake
 	Match case	Razlikuj velika i mala slova
 	Match Fields	Uskladi polja
 	Match prefix	Podudaranje prefiksa
@@ -1237,6 +1254,7 @@ template	Letter	Pismo
 	Matrices with Brackets	Matrice sa zagradama
 	Matrix	Matrica
 	Maximum Example	Primjer maksimuma
+	Maximum:	Najveći:
 	Measured By	Mjereno s
 	Measurement units:	Mjerne jedinice:
 	Merge cells before split	Spoji ćelije prije razdvajanja
@@ -1244,6 +1262,7 @@ template	Letter	Pismo
 	Merge Record #	Spoji zapis br.
 	Mesosphere	Mezosfera
 	Midline Dots	Točke na sredini retka
+	Minimum:	Najmanji:
 	Minus Equal	Minus jednako
 	Mirror indents	Zrcali uvlake
 	Mirror margins	Zrcalne margine
@@ -1376,6 +1395,7 @@ template	Letter	Pismo
 	Num Occurrences	Broj pojavljivanja
 	Number alignment:	Poravnanje broja:
 	Number format	Format broja
+	Number format:	Format broja:
 	Number of columns:	Broj stupaca:
 	Number of rows:	Broj redaka:
 	Number of the page the field sits on	Broj stranice na kojoj se nalazi polje
@@ -1819,6 +1839,7 @@ template	Letter	Pismo
 	Sequence name:	Naziv niza:
 	Serbian (Cyrillic)	Srpski (ćirilica)
 	Serbian (Latin)	Srpski (latinica)
+	Series	Serija
 	Series name	Naziv niza
 	Series {n}	Niz {n}
 	Set As Default	Postavi kao zadano
@@ -1930,6 +1951,7 @@ template	Letter	Pismo
 	SmartArt	SmartArt
 	SmartArt Design	SmartArt dizajn
 	SmartArt Styles	SmartArt stilovi
+	Smooth lines	Izgladne crte
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Glatko pomicanje i zumiranje te izbornici i gumbi koji se postupno pojavljuju. Kad je isključeno, svaka se promjena prikazuje odmah.
 	Soft	Meko
 	Soft Edges	Meki rubovi
@@ -2138,6 +2160,7 @@ template	Letter	Pismo
 	this text box is already linked: break the link first	ovaj tekstni okvir već je povezan: najprije prekinite vezu
 	Three	Tri
 	Through	Kroz
+	Tick labels	Oznake podijela
 	Tight	Usko
 	Tilde	Tilda
 	Tips ({n})	Savjeti ({n})
@@ -2289,6 +2312,7 @@ preview	Title	Naslov
 	Wide	Široko
 	Widow/Orphan Control	Kontrola usamljenih redaka
 	Widow/Orphan control	Kontrola usamljenih redaka
+	Width (pt):	Širina (pt):
 	Width and spacing	Širina i razmak
 	Wildcards (regex)	Zamjenski znakovi (regex)
 	With:	S:
@@ -2350,6 +2374,9 @@ preview	Title	Naslov
 	{width} × {height} pixels	{width} × {height} piksela
 	{words} words	Riječi: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nije broj.
+	“{text}” isn't a colour (RRGGBB).	„{text}” nije boja (RRGGBB).
+	“{text}” isn't a number.	„{text}” nije broj.
+	“{text}” isn't a width in points.	„{text}” nije širina u točkama.
 	✓ None	✓ Nema
 	➕ New comment	➕ Novi komentar
 	📂  Browse…	📂  Pregledaj…

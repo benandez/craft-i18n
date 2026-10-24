@@ -42,6 +42,7 @@
 	Above Chart	Изнад графикона
 	Above the item	Изнад ставке
 	Accent	Знак акцента
+	accent	акцент
 	Accent Gradient	Градијент боје истицања
 	Accent with Reflection	Истицање са одразом
 	Accent {n}	Акценат {n}
@@ -154,6 +155,7 @@
 	Atmosphere	Атмосфера
 	Attach Template	Приложи шаблон
 	Attach…	Приложи…
+	auto	ауто
 	AutoCorrect	Аутоматска исправка
 	AutoCorrect Options	Опције аутоматске исправке
 	AutoFit	Аутоматско уклапање
@@ -182,6 +184,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Аутоматско чување уписује сваку измену у фајл (документ мора бити већ сачуван)
 	AutoSave writes your changes to the file a moment after you stop typing.	Аутоматско чување уписује измене у датотеку чим престанете да куцате.
 	AutoText	Аутоматски текст
+	Axis	Оса
+	Axis Labels	Ознаке осе
+	Axis line	Линија осе
+	Axis Titles	Наслови осе
 	Balloons	Облачићи
 	Banded Columns	Тракасте колоне
 	Banded Rows	Тракасти редови
@@ -406,6 +412,7 @@
 	Cross-reference:	Унакрсна референца:
 	Current Position	Тренутни положај
 	Current record	Тренутни запис
+	Current Selection	Тренутни избор
 	Current style: {style}	Тренутни стил: {style}
 	Curved Arrow Connector	Закривљени конектор са стрелицом
 	Curved Connector	Закривљени конектор
@@ -432,6 +439,7 @@
 	Dark with Shadow	Тамно са сенком
 	Darkroom	Мрачна комора
 	Data Labels	Ознаке података
+	Data labels	Ознаке података
 	Date & Time	Датум и време
 	Date formats:	Формати датума:
 	Date Picker Content Control	Контрола садржаја за бирање датума
@@ -631,6 +639,7 @@
 	File name:	Име датотеке:
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Фајл › Ново приказује .dotx и .dotm шаблоне одавде под Лични; Сачувај као Word шаблон почиње овде.
 	Fill color:	Боја попуне:
+	Fill:	Попуна:
 	Filling in forms	Попуњавање образаца
 	Film	Филм
 	Filter and Sort	Филтрирање и сортирање
@@ -667,9 +676,14 @@
 	Footnotes	Фусноте
 	Footnotes and endnotes	Фусноте и крајње напомене
 	Footnotes to endnotes	Фусноте у ендноте
+	Format Axis	Обликуј осу
+	Format Axis…	Обликуј осу…
 	Format Page Numbers	Формат бројева страна
 	Format Page Numbers…	Формат бројева страна…
 	Format Painter	Копирање формата
+	Format Selection	Обликовање избора
+	Format Series	Обликуј серију
+	Format Series…	Обликуј серију…
 	Format Shape	Формат облика
 	Format Shape Pane	Окно „Формат облика“
 	Format Shape…	Форматирај облик…
@@ -946,6 +960,7 @@
 	Link level to style:	Повежи ниво са стилом:
 	Link to Previous	Веза са претходним
 	Link to:	Веза ка:
+	linked	повезано
 	Linked style (paragraph and character)	Повезани стил (пасус и знакови)
 	Links and References	Везе и референце
 	Link…	Веза…
@@ -967,6 +982,7 @@
 	Mail Merge	Спајање поште
 	Mailings	Писма
 	Main entry:	Главна ставка:
+	Major gridlines	Главне мрежне линије
 	Make WordCraft the default for Word documents…	Постави WordCraft као подразумевану апликацију за Word документе…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Повећава или смањује траку, меније и дијалоге. Аутоматски прати скалирање екрана у систему; 100% је један пиксел екрана по тачки. Зумирање документа је засебно.
 	Manage Sources	Управљај изворима
@@ -990,6 +1006,7 @@
 	Mark\nCitation	Означи\nцитат
 	Mark\nEntry	Означи\nставку
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Маркери
 	Match case	Осетљиво на велика/мала слова
 	Match Fields	Упореди поља
 	Match prefix	Подудари префикс
@@ -997,11 +1014,15 @@
 	Matches: {count}	Подударања: {count}
 	Math AutoCorrect	Аутоматска исправка математике
 	Matrix	Матрица
+	Maximum	Највећи
+	Maximum:	Највећи:
 	Measurement units:	Јединице мере:
 	Merge cells before split	Споји ћелије пре дељења
 	Merge Formatting	Споји форматирање
 	Merge Record #	Број записа спајања
 	Mesosphere	Мезосфера
+	Minimum	Најмањи
+	Minimum:	Најмањи:
 	Mirror indents	Пресликај увлачења
 	Mirror margins	Пресликане маргине
 	Mirrored	Зрцаљено
@@ -1125,6 +1146,7 @@
 	Num Occurrences	Број понављања
 	Number alignment:	Поравнање броја:
 	Number format	Формат броја
+	Number format:	Формат броја:
 	Number of columns:	Број колона:
 	Number of rows:	Број редова:
 	Number of the page the field sits on	Број тренутне странице
@@ -1529,6 +1551,7 @@
 	Sequence name:	Назив низа:
 	Serbian (Cyrillic)	Српски (ћирилица)
 	Serbian (Latin)	Српски (латиница)
+	Series	Серија
 	Series name	Назив серије
 	Series {n}	Серија {n}
 	Set As Default	Постави као подразумевано
@@ -1622,6 +1645,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	SmartArt дизајн
 	SmartArt Styles	SmartArt стилови
+	Smooth lines	Изглачане линије
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Глатко померање и зумирање, као и постепено појављивање менија и дугмади. Уз „Искључено“ свака промена се приказује одмах.
 	Soft	Мек
 	Soft Edges	Меке ивице
@@ -1794,6 +1818,7 @@
 	this text box is already linked: break the link first	овај оквир за текст је већ повезан: прво прекините везу
 	Three	Три
 	Through	Кроз
+	Tick labels	Ознаке поделе
 	Tight	Тесно
 	Tips ({n})	Савети ({n})
 	Title Bar	Насловна трака
@@ -1907,6 +1932,7 @@
 	Wide	Широко
 	Widow/Orphan Control	Контрола усамљених редова
 	Widow/Orphan control	Контрола усамљених редова
+	Width (pt):	Ширина (тач.):
 	Width and spacing	Ширина и размак
 	With:	Са:
 	Word 2003 XML Document (*.xml)	Word 2003 XML документ (*.xml)
@@ -1964,3 +1990,6 @@
 	{width} × {height} pixels	{width} × {height} пиксела
 	{words} words	{words} речи
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) није број.
+	“{text}” isn't a colour (RRGGBB).	„{text}” није боја (RRGGBB).
+	“{text}” isn't a number.	„{text}” није број.
+	“{text}” isn't a width in points.	„{text}” није ширина у тачкама.

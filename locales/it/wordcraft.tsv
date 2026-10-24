@@ -61,6 +61,7 @@
 	Above the item	Sopra l'elemento
 	Absolute value cases	Casi del valore assoluto
 	Accent	Accento
+	accent	accento
 	Accent Gradient	Sfumatura colore
 	Accent with Reflection	Colore con riflesso
 	Accent {n}	Colore {n}
@@ -185,6 +186,7 @@
 	Atmosphere	Atmosfera
 	Attach Template	Collega modello
 	Attach…	Collega…
+	auto	auto
 	AutoCorrect	Correzione automatica
 	AutoCorrect Options	Opzioni di correzione automatica
 	AutoFit	Adatta
@@ -213,6 +215,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Il salvataggio automatico salva ogni modifica nel file (richiede un documento salvato)
 	AutoSave writes your changes to the file a moment after you stop typing.	Il salvataggio automatico scrive le modifiche nel file poco dopo che smetti di digitare.
 	AutoText	Testo automatico
+	Axis	Asse
+	Axis Labels	Etichette degli assi
+	Axis line	Linea dell'asse
+	Axis Titles	Titoli degli assi
 	B4 (JIS)   10.12" × 14.33"	B4 (JIS)   10,12" × 14,33"
 	B5 (JIS)   7.17" × 10.12"	B5 (JIS)   7,17" × 10,12"
 	Balloons	Fumetti
@@ -510,6 +516,7 @@
 	Current - Professional	Corrente - Professionale
 	Current Position	Posizione corrente
 	Current record	Record corrente
+	Current Selection	Selezione corrente
 	Current style: {style}	Stile corrente: {style}
 	Curved Arrow Connector	Connettore curvo con freccia
 	Curved Connector	Connettore curvo
@@ -537,6 +544,7 @@
 	Darkroom	Camera oscura
 	Dashed	Tratteggiato
 	Data Labels	Etichette dati
+	Data labels	Etichette dati
 	Date & Time	Data e ora
 	Date formats:	Formati data:
 	Date Picker Content Control	Controllo contenuto selezione data
@@ -828,9 +836,14 @@
 	Footnotes and endnotes	Note a piè di pagina e note di chiusura
 	Footnotes to endnotes	Note a piè di pagina in note di chiusura
 	For which item:	Per quale elemento:
+	Format Axis	Formatta l'asse
+	Format Axis…	Formatta l'asse…
 	Format Page Numbers	Formato numeri di pagina
 	Format Page Numbers…	Formato numeri di pagina…
 	Format Painter	Copia formato
+	Format Selection	Formatta la selezione
+	Format Series	Formatta la serie
+	Format Series…	Formatta la serie…
 	Format Shape	Formato forma
 	Format Shape Pane	Riquadro Formato forma
 	Format Shape…	Formato forma…
@@ -1192,6 +1205,7 @@ template	Letter	Lettera
 	Link level to style:	Collega livello allo stile:
 	Link to Previous	Collega al precedente
 	Link to:	Collega a:
+	linked	collegato
 	Linked style (paragraph and character)	Stile collegato (paragrafo e carattere)
 	Links and References	Collegamenti e riferimenti
 	Link…	Collegamento…
@@ -1225,6 +1239,7 @@ template	Letter	Lettera
 	Mail Merge	Stampa unione
 	Mailings	Lettere
 	Main entry:	Voce principale:
+	Major gridlines	Linee griglia principali
 	Make WordCraft the default for Word documents…	Rendi WordCraft l'app predefinita per i documenti Word…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Ingrandisce o riduce la barra multifunzione, i menu e le finestre di dialogo. Auto segue il ridimensionamento dello schermo del sistema; 100% è un pixel dello schermo per punto. Lo zoom del documento è separato.
 	Manage Sources	Gestisci fonti
@@ -1248,6 +1263,7 @@ template	Letter	Lettera
 	Mark\nCitation	Segna\ncitazione
 	Mark\nEntry	Segna\nvoce
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Marcatori
 	Match case	Maiuscole/minuscole
 	Match Fields	Corrispondenza campi
 	Match prefix	Confronta prefisso
@@ -1257,6 +1273,7 @@ template	Letter	Lettera
 	Matrices with Brackets	Matrici tra parentesi
 	Matrix	Matrice
 	Maximum Example	Esempio di massimo
+	Maximum:	Massimo:
 	Measured By	Misurato da
 	Measurement units:	Unità di misura:
 	Merge	Unisci
@@ -1266,6 +1283,7 @@ template	Letter	Lettera
 	Mesosphere	Mesosfera
 	Middle	Al centro
 	Midline Dots	Puntini centrati
+	Minimum:	Minimo:
 	Minus Equal	Meno uguale
 	Mirror indents	Rientri speculari
 	Mirror margins	Margini speculari
@@ -1400,6 +1418,7 @@ template	Letter	Lettera
 	Num Occurrences	Numero di occorrenze
 	Number alignment:	Allineamento numero:
 	Number format	Formato numero
+	Number format:	Formato numero:
 	Number of columns:	Numero di colonne:
 	Number of rows:	Numero di righe:
 	Number of the page the field sits on	Numero della pagina in cui si trova il campo
@@ -1847,6 +1866,7 @@ template	Letter	Lettera
 	Sequence name:	Nome sequenza:
 	Serbian (Cyrillic)	Serbo (cirillico)
 	Serbian (Latin)	Serbo (latino)
+	Series	Serie
 	Series name	Nome serie
 	Series {n}	Serie {n}
 	Set As Default	Imposta come predefinito
@@ -1961,6 +1981,7 @@ template	Letter	Lettera
 	SmartArt	SmartArt
 	SmartArt Design	SmartArt Design
 	SmartArt Styles	Stili SmartArt
+	Smooth lines	Linee smussate
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Scorrimento e zoom fluidi, e menu e pulsanti che compaiono in dissolvenza. Disattivato mostra ogni modifica subito.
 	Soft Edges	Bordi sfumati
 	Soft Glow	Bagliore tenue
@@ -2169,6 +2190,7 @@ template	Letter	Lettera
 	this text box is already linked: break the link first	questa casella di testo è già collegata: interrompi prima il collegamento
 	Three	Tre
 	Through	Passante
+	Tick labels	Etichette delle graduazioni
 	Tight	Ravvicinato
 	Tilde	Tilde
 	Tips ({n})	Suggerimenti ({n})
@@ -2323,6 +2345,7 @@ preview	Title	Esempio
 	Wide	Largo
 	Widow/Orphan Control	Controllo righe isolate
 	Widow/Orphan control	Controllo righe isolate
+	Width (pt):	Larghezza (pt):
 	Width and spacing	Larghezza e spaziatura
 	Wildcards (regex)	Caratteri jolly (regex)
 	With:	Con:
@@ -2386,6 +2409,9 @@ preview	Title	Esempio
 	{width} × {height} pixels	{width} × {height} pixel
 	{words} words	Parole: {words}
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) non è un numero.
+	“{text}” isn't a colour (RRGGBB).	“{text}” non è un colore (RRGGBB).
+	“{text}” isn't a number.	“{text}” non è un numero.
+	“{text}” isn't a width in points.	“{text}” non è una larghezza in punti.
 	✓ None	✓ Nessuno
 	➕ New comment	➕ Nuovo commento
 	📂  Browse…	📂  Sfoglia…

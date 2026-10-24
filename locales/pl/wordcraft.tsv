@@ -61,6 +61,7 @@
 	Above the item	Nad elementem
 	Absolute value cases	Przypadki wartości bezwzględnej
 	Accent	Akcent
+	accent	akcent
 	Accent Gradient	Gradient akcentu
 	Accent with Reflection	Akcent z odbiciem
 	Accent {n}	Akcent {n}
@@ -187,6 +188,7 @@
 	Atmosphere	Atmosfera
 	Attach Template	Dołącz szablon
 	Attach…	Dołącz…
+	auto	auto
 	AutoCorrect	Autokorekta
 	AutoCorrect Options	Opcje autokorekty
 	AutoFit	Autodopasowanie
@@ -216,6 +218,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Autozapis zapisuje każdą zmianę w pliku (dokument musi być już zapisany)
 	AutoSave writes your changes to the file a moment after you stop typing.	Autozapis zapisuje zmiany w pliku chwilę po tym, jak przestaniesz pisać.
 	AutoText	Autotekst
+	Axis	Oś
+	Axis Labels	Etykiety osi
+	Axis line	Linia osi
+	Axis Titles	Tytuły osi
 	B4 (JIS)   10.12" × 14.33"	B4 (JIS)   10.12" × 14.33"
 	B5 (JIS)   7.17" × 10.12"	B5 (JIS)   7.17" × 10.12"
 	Balloons	Dymki
@@ -512,6 +518,7 @@
 	Current - Professional	Bieżące — profesjonalne
 	Current Position	Bieżące położenie
 	Current record	Bieżący rekord
+	Current Selection	Bieżące zaznaczenie
 	Current style: {style}	Bieżący styl: {style}
 	Curved Arrow Connector	Łącznik zakrzywiony ze strzałką
 	Curved Connector	Łącznik zakrzywiony
@@ -538,6 +545,7 @@
 	Dark with Shadow	Ciemny z cieniem
 	Darkroom	Ciemnia
 	Data Labels	Etykiety danych
+	Data labels	Etykiety danych
 	Date & Time	Data i godzina
 	Date formats:	Formaty daty:
 	Date Picker Content Control	Formant zawartości selektora dat
@@ -825,9 +833,14 @@
 	Footnotes and endnotes	Przypisy dolne i końcowe
 	Footnotes to endnotes	Przypisy dolne na końcowe
 	For which item:	Dla którego elementu:
+	Format Axis	Formatuj oś
+	Format Axis…	Formatuj oś…
 	Format Page Numbers	Formatuj numery stron
 	Format Page Numbers…	Formatuj numery stron…
 	Format Painter	Pędzel formatowania
+	Format Selection	Formatuj zaznaczenie
+	Format Series	Formatuj serię
+	Format Series…	Formatuj serię…
 	Format Shape	Formatowanie kształtu
 	Format Shape Pane	Okienko Formatowanie kształtu
 	Format Shape…	Formatuj kształt…
@@ -1192,6 +1205,7 @@
 	Link level to style:	Połącz poziom ze stylem:
 	Link to Previous	Połącz z poprzednim
 	Link to:	Połącz z:
+	linked	powiązane
 	Linked style (paragraph and character)	Styl połączony (akapitowy i znakowy)
 	Links	Linki
 	Links and References	Łącza i odwołania
@@ -1226,6 +1240,7 @@
 	Mail Merge	Korespondencja seryjna
 	Mailings	Korespondencja
 	Main entry:	Pozycja główna:
+	Major gridlines	Główne linie siatki
 	Make WordCraft the default for Word documents…	Ustaw WordCraft jako domyślny dla dokumentów Word…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Powiększa lub zmniejsza wstążkę, menu i okna dialogowe. Automatycznie oznacza skalowanie ekranu ustawione w systemie; 100% to jeden piksel ekranu na punkt. Powiększenie dokumentu ustawia się osobno.
 	Manage Sources	Zarządzaj źródłami
@@ -1249,6 +1264,7 @@
 	Mark\nCitation	Oznacz\ncytat
 	Mark\nEntry	Oznacz\nhasło
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Znaczniki
 	Match case	Uwzględniaj wielkość liter
 	Match Fields	Dopasuj pola
 	Match prefix	Uwzględnij prefiks
@@ -1259,6 +1275,7 @@
 	Matrix	Macierz
 	Maximum	Maksimum
 	Maximum Example	Przykład maksimum
+	Maximum:	Maksimum:
 	Measured By	Mierzone przez
 	Measurement units:	Jednostki miary:
 	Merge cells before split	Scal komórki przed podziałem
@@ -1267,6 +1284,7 @@
 	Mesosphere	Mezosfera
 	Midline Dots	Kropki środkowe
 	Minimum	Minimum
+	Minimum:	Minimum:
 	Minus Equal	Minus i znak równości
 	Mirror indents	Wcięcia lustrzane
 	Mirror margins	Marginesy lustrzane
@@ -1403,6 +1421,7 @@
 	Number	Numer
 	Number alignment:	Wyrównanie numeru:
 	Number format	Format numeru
+	Number format:	Format liczb:
 	Number of columns:	Liczba kolumn:
 	Number of rows:	Liczba wierszy:
 	Number of the page the field sits on	Numer strony, na której jest pole
@@ -1854,6 +1873,7 @@
 	Sequence name:	Nazwa sekwencji:
 	Serbian (Cyrillic)	Serbski (cyrylica)
 	Serbian (Latin)	Serbski (łacinka)
+	Series	Seria
 	Series name	Nazwa serii
 	Series {n}	Seria {n}
 	Set As Default	Ustaw jako domyślny
@@ -1965,6 +1985,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	Projekt grafiki SmartArt
 	SmartArt Styles	Style grafiki SmartArt
+	Smooth lines	Wygładzone linie
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Płynne przewijanie i powiększanie oraz łagodnie pojawiające się menu i przyciski. Po wyłączeniu każda zmiana jest widoczna od razu.
 	Soft Edges	Zmiękczone krawędzie
 	Soft Glow	Łagodna poświata
@@ -2175,6 +2196,7 @@
 	this text box is already linked: break the link first	to pole tekstowe jest już połączone: najpierw przerwij połączenie
 	Three	Trzy
 	Through	Przyległe
+	Tick labels	Etykiety podziałki
 	Tight	Ciasne
 	Tilde	Tylda
 	Tips ({n})	Wskazówki ({n})
@@ -2330,6 +2352,7 @@ preview	Title	Tytuł
 	Wide	Szerokie
 	Widow/Orphan Control	Kontrola wdów i sierot
 	Widow/Orphan control	Kontrola wdów i sierot
+	Width (pt):	Szerokość (pt):
 	Width and spacing	Szerokość i odstępy
 	Wildcards (regex)	Symbole wieloznaczne (wyrażenia regularne)
 	With:	Na:
@@ -2391,6 +2414,9 @@ preview	Title	Tytuł
 	{width} × {height} pixels	{width} × {height} pikseli
 	{words} words	Słowa: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nie jest liczbą.
+	“{text}” isn't a colour (RRGGBB).	„{text}” nie jest kolorem (RRGGBB).
+	“{text}” isn't a number.	„{text}” nie jest liczbą.
+	“{text}” isn't a width in points.	„{text}” nie jest szerokością w punktach.
 	✓ None	✓ Brak
 	➕ New comment	➕ Nowy komentarz
 	📂  Browse…	📂  Przeglądaj…

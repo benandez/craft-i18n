@@ -61,6 +61,7 @@
 	Above the item	Nad položkou
 	Absolute value cases	Absolutní hodnota podle případů
 	Accent	Diakritika
+	accent	akcent
 	Accent Gradient	Přechod barvy zvýraznění
 	Accent with Reflection	Barva zvýraznění s odrazem
 	Accent {n}	Zvýraznění {n}
@@ -186,6 +187,7 @@
 	Atmosphere	Atmosféra
 	Attach Template	Připojit šablonu
 	Attach…	Připojit…
+	auto	auto
 	AutoCorrect	Automatické opravy
 	AutoCorrect Options	Možnosti automatických oprav
 	AutoFit	Automaticky přizpůsobit
@@ -214,6 +216,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Automatické ukládání zapisuje každou změnu do souboru (vyžaduje uložený dokument)
 	AutoSave writes your changes to the file a moment after you stop typing.	Automatické ukládání zapíše změny do souboru chvíli poté, co přestanete psát.
 	AutoText	Automatický text
+	Axis	Osa
+	Axis Labels	Popisky osy
+	Axis line	Čára osy
+	Axis Titles	Názvy osy
 	Balloons	Bubliny
 	Banded Columns	Pruhované sloupce
 	Banded Rows	Pruhované řádky
@@ -507,6 +513,7 @@
 	Current - Professional	Aktuální – profesionální
 	Current Position	Aktuální pozice
 	Current record	Aktuální záznam
+	Current Selection	Aktuální výběr
 	Current style: {style}	Aktuální styl: {style}
 	Curved Arrow Connector	Zakřivená spojnice se šipkou
 	Curved Connector	Zakřivená spojnice
@@ -534,6 +541,7 @@
 	Dark with Shadow	Tmavý se stínem
 	Darkroom	Temná komora
 	Data Labels	Popisky dat
+	Data labels	Popisky dat
 	Date & Time	Datum a čas
 	Date formats:	Formáty data:
 	Date Picker Content Control	Ovládací prvek obsahu pro výběr data
@@ -813,9 +821,14 @@
 	Footnotes and endnotes	Poznámky pod čarou a vysvětlivky
 	Footnotes to endnotes	Převést poznámky pod čarou na vysvětlivky
 	For which item:	Pro kterou položku:
+	Format Axis	Formát osy
+	Format Axis…	Formát osy…
 	Format Page Numbers	Formát číslování stránek
 	Format Page Numbers…	Formát číslování stránek…
 	Format Painter	Štětec formátu
+	Format Selection	Formátovat výběr
+	Format Series	Formát řady
+	Format Series…	Formát řady…
 	Format Shape	Formát obrazce
 	Format Shape Pane	Podokno Formát obrazce
 	Format Shape…	Formátovat obrazec…
@@ -1166,6 +1179,7 @@
 	Link level to style:	Propojit úroveň se stylem:
 	Link to Previous	Navázat na předchozí
 	Link to:	Odkaz na:
+	linked	propojeno
 	Linked style (paragraph and character)	Propojený styl (odstavec a znak)
 	Links	Odkazy
 	Links and References	Odkazy a reference
@@ -1199,6 +1213,7 @@
 	Mail Merge	Hromadná korespondence
 	Mailings	Korespondence
 	Main entry:	Hlavní položka:
+	Major gridlines	Hlavní mřížkové čáry
 	Make WordCraft the default for Word documents…	Nastavit WordCraft jako výchozí pro dokumenty Word…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Zvětší nebo zmenší pás karet, nabídky a dialogová okna. Automaticky sleduje škálování displeje v systému; 100% je jeden pixel obrazovky na bod. Lupa dokumentu se nastavuje zvlášť.
 	Manage Sources	Spravovat prameny
@@ -1222,6 +1237,7 @@
 	Mark\nCitation	Označit\ncitaci
 	Mark\nEntry	Označit\npoložku
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Značky
 	Match case	Rozlišovat malá a velká písmena
 	Match Fields	Přiřadit pole
 	Match prefix	Shoda předpony
@@ -1232,6 +1248,7 @@
 	Matrix	Matice
 	Maximum	Maximum
 	Maximum Example	Maximum (příklad)
+	Maximum:	Maximum:
 	Measured By	Měřeno pomocí
 	Measurement units:	Jednotky měření:
 	Merge cells before split	Před rozdělením buňky sloučit
@@ -1240,6 +1257,7 @@
 	Mesosphere	Mezosféra
 	Midline Dots	Tečky ve střední výšce
 	Minimum	Minimum
+	Minimum:	Minimum:
 	Minus Equal	Minus a rovná se
 	Mirror indents	Zrcadlové odsazení
 	Mirror margins	Zrcadlové okraje
@@ -1374,6 +1392,7 @@
 	Num Occurrences	Počet výskytů
 	Number alignment:	Zarovnání čísel:
 	Number format	Formát čísla
+	Number format:	Formát čísel:
 	Number of columns:	Počet sloupců:
 	Number of rows:	Počet řádků:
 	Number of the page the field sits on	Číslo aktuální stránky
@@ -1823,6 +1842,7 @@
 	Sequence name:	Název posloupnosti:
 	Serbian (Cyrillic)	Srbština (cyrilice)
 	Serbian (Latin)	Srbština (latinka)
+	Series	Řada
 	Series name	Název řady
 	Series {n}	Řada {n}
 	Set As Default	Nastavit jako výchozí
@@ -1934,6 +1954,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	Návrh SmartArt
 	SmartArt Styles	Styly SmartArt
+	Smooth lines	Vyhlazené čáry
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Plynulé posouvání a přibližování a postupně se zobrazující nabídky a tlačítka. Při vypnutí se každá změna zobrazí okamžitě.
 	Soft	Jemný
 	Soft Edges	Měkké okraje
@@ -2142,6 +2163,7 @@
 	this text box is already linked: break the link first	toto textové pole už je propojené: nejprve zrušte propojení
 	Three	Tři
 	Through	Průchozí
+	Tick labels	Popisky dílků
 	Tight	Těsné
 	Tilde	Vlnovka
 	Tips ({n})	Tipy ({n})
@@ -2292,6 +2314,7 @@ preview	Title	Ukázka
 	Wide	Široké
 	Widow/Orphan Control	Kontrola osamocených řádků
 	Widow/Orphan control	Kontrola osamocených řádků
+	Width (pt):	Šířka (b):
 	Width and spacing	Šířka a mezery
 	Wildcards (regex)	Zástupné znaky (regex)
 	With:	Čím:
@@ -2353,6 +2376,9 @@ preview	Title	Ukázka
 	{width} × {height} pixels	{width} × {height} pixelů
 	{words} words	Počet slov: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) není číslo.
+	“{text}” isn't a colour (RRGGBB).	„{text}“ není barva (RRGGBB).
+	“{text}” isn't a number.	„{text}“ není číslo.
+	“{text}” isn't a width in points.	„{text}“ není šířka v bodech.
 	✓ None	✓ Žádné
 	➕ New comment	➕ Nový komentář
 	📂  Browse…	📂  Procházet…

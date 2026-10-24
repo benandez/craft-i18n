@@ -61,6 +61,7 @@
 	Above the item	Au-dessus de l’élément
 	Absolute value cases	Valeur absolue par cas
 	Accent	Accent
+	accent	accent
 	Accent Gradient	Dégradé d’accent
 	Accent with Reflection	Accent avec reflet
 	Accent {n}	Accentuation {n}
@@ -190,6 +191,7 @@
 	Attach Template	Attacher un modèle
 	Attach…	Attacher…
 	Auto	Auto
+	auto	auto
 	Auto ({percent}%)	Auto ({percent}%)
 	AutoCorrect	Correction automatique
 	AutoCorrect Options	Options de correction automatique
@@ -219,6 +221,10 @@
 	AutoSave saves every change to the file (needs a saved document)	L’enregistrement automatique enregistre chaque modification dans le fichier (nécessite un document enregistré)
 	AutoSave writes your changes to the file a moment after you stop typing.	L’enregistrement automatique écrit vos modifications dans le fichier peu après que vous avez cessé de taper.
 	AutoText	Texte automatique
+	Axis	Axe
+	Axis Labels	Étiquettes de l'axe
+	Axis line	Ligne de l'axe
+	Axis Titles	Titres de l'axe
 	B4 (JIS)   10.12" × 14.33"	B4 (JIS)   10.12" × 14.33"
 	B5 (JIS)   7.17" × 10.12"	B5 (JIS)   7.17" × 10.12"
 	Balloons	Bulles
@@ -520,6 +526,7 @@
 	Current - Professional	Sélection - Professionnel
 	Current Position	Position actuelle
 	Current record	Enregistrement actif
+	Current Selection	Sélection actuelle
 	Current style: {style}	Style actuel : {style}
 	Curved Arrow Connector	Connecteur incurvé avec flèche
 	Curved Connector	Connecteur incurvé
@@ -546,6 +553,7 @@
 	Dark with Shadow	Sombre avec ombre
 	Darkroom	Chambre noire
 	Data Labels	Étiquettes de données
+	Data labels	Étiquettes de données
 	Date & Time	Date et heure
 	Date formats:	Formats de date :
 	Date Picker Content Control	Contrôle de contenu Sélecteur de date
@@ -794,6 +802,7 @@
 	File name:	Nom du fichier :
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Fichier › Nouveau affiche les modèles .dotx et .dotm de ce dossier sous Personnel ; Enregistrer comme modèle Word commence ici.
 	Fill color:	Couleur de remplissage :
+	Fill:	Remplissage :
 	Filling in forms	Remplissage de formulaires
 	Film	Film
 	Filter and Sort	Filtrer et trier
@@ -838,9 +847,14 @@
 	Footnotes and endnotes	Notes de bas de page et notes de fin
 	Footnotes to endnotes	Notes de bas de page en notes de fin
 	For which item:	Pour quel élément :
+	Format Axis	Format de l'axe
+	Format Axis…	Format de l'axe…
 	Format Page Numbers	Format numéros de page
 	Format Page Numbers…	Format numéros de page…
 	Format Painter	Reproduire la mise en forme
+	Format Selection	Format de la sélection
+	Format Series	Format de la série
+	Format Series…	Format de la série…
 	Format Shape	Mise en forme de la forme
 	Format Shape Pane	Volet Mise en forme de la forme
 	Format Shape…	Mise en forme de la forme…
@@ -1205,6 +1219,7 @@ template	Letter	Lettre
 	Link level to style:	Lier le niveau au style :
 	Link to Previous	Identique au précédent
 	Link to:	Lier à :
+	linked	lié
 	Linked style (paragraph and character)	Style lié (paragraphe et caractère)
 	Links and References	Liens et références
 	Link…	Lien…
@@ -1238,6 +1253,7 @@ template	Letter	Lettre
 	Mail Merge	Publipostage
 	Mailings	Publipostage
 	Main entry:	Entrée principale :
+	Major gridlines	Lignes de grille principales
 	Make WordCraft the default for Word documents…	Faire de WordCraft l’application par défaut pour les documents Word…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Agrandit ou réduit le ruban, les menus et les boîtes de dialogue. Auto suit la mise à l’échelle d’affichage de votre système ; 100% correspond à un pixel d’écran par point. Le zoom du document est distinct.
 	Manage Sources	Gérer les sources
@@ -1261,6 +1277,7 @@ template	Letter	Lettre
 	Mark\nCitation	Marquer une\ncitation
 	Mark\nEntry	Marquer\nl’entrée
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Marqueurs
 	Match case	Respecter la casse
 	Match Fields	Faire correspondre les champs
 	Match prefix	Respecter le préfixe
@@ -1270,6 +1287,7 @@ template	Letter	Lettre
 	Matrices with Brackets	Matrices entre crochets
 	Matrix	Matrice
 	Maximum Example	Exemple de maximum
+	Maximum:	Maximum :
 	Measured By	Mesuré par
 	Measurement units:	Unités de mesure :
 	Medium	Moyenne
@@ -1278,6 +1296,7 @@ template	Letter	Lettre
 	Merge Record #	N° d’enregistrement de fusion
 	Mesosphere	Mésosphère
 	Midline Dots	Points médians
+	Minimum:	Minimum :
 	Minus Equal	Moins égal
 	Mirror indents	Retraits en miroir
 	Mirror margins	Marges en vis-à-vis
@@ -1413,6 +1432,7 @@ template	Letter	Lettre
 	Number	Numéro
 	Number alignment:	Alignement des numéros :
 	Number format	Format des numéros
+	Number format:	Format des nombres :
 	Number of columns:	Nombre de colonnes :
 	Number of rows:	Nombre de lignes :
 	Number of the page the field sits on	Numéro de la page où se trouve le champ
@@ -1866,6 +1886,7 @@ template	Letter	Lettre
 	Sequence name:	Nom de la séquence :
 	Serbian (Cyrillic)	Serbe (cyrillique)
 	Serbian (Latin)	Serbe (latin)
+	Series	Série
 	Series name	Nom de la série
 	Series {n}	Série {n}
 	Set As Default	Définir par défaut
@@ -1980,6 +2001,7 @@ template	Letter	Lettre
 	SmartArt	SmartArt
 	SmartArt Design	Création SmartArt
 	SmartArt Styles	Styles SmartArt
+	Smooth lines	Lignes lissées
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Défilement et zoom fluides, et menus et boutons qui apparaissent en fondu. Désactivés : chaque changement s’affiche immédiatement.
 	Soft Edges	Bords adoucis
 	Soft Glow	Lueur douce
@@ -2190,6 +2212,7 @@ template	Letter	Lettre
 	this text box is already linked: break the link first	cette zone de texte est déjà liée : rompez d’abord le lien
 	Three	Trois
 	Through	Au travers
+	Tick labels	Étiquettes des graduations
 	Tight	Rapproché
 	Tilde	Tilde
 	Tips ({n})	Conseils ({n})
@@ -2347,6 +2370,7 @@ preview	Title	Titre
 	Wide	Large
 	Widow/Orphan Control	Contrôle des veuves et orphelines
 	Widow/Orphan control	Contrôle des veuves et orphelines
+	Width (pt):	Largeur (pt) :
 	Width and spacing	Largeur et espacement
 	Wildcards (regex)	Caractères génériques (regex)
 	With:	Avec :
@@ -2407,6 +2431,9 @@ preview	Title	Titre
 	{width} × {height} pixels	{width} × {height} pixels
 	{words} words	{words} mots
 	“{text}” ({row}, {series}) isn't a number.	« {text} » ({row}, {series}) n’est pas un nombre.
+	“{text}” isn't a colour (RRGGBB).	« {text} » n’est pas une couleur (RRGGBB).
+	“{text}” isn't a number.	« {text} » n’est pas un nombre.
+	“{text}” isn't a width in points.	« {text} » n’est pas une largeur en points.
 	✓ None	✓ Aucun
 	➕ New comment	➕ Nouveau commentaire
 	📂  Browse…	📂  Parcourir…

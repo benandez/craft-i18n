@@ -62,6 +62,7 @@
 	Above the item	항목 위
 	Absolute value cases	절댓값 경우 나누기
 	Accent	악센트
+	accent	강조
 	Accent Gradient	강조 그라데이션
 	Accent with Reflection	반사가 있는 강조
 	Accent {n}	강조 {n}
@@ -186,6 +187,7 @@
 	Atmosphere	분위기
 	Attach Template	서식 파일 연결
 	Attach…	첨부…
+	auto	자동
 	AutoCorrect	자동 고침
 	AutoCorrect Options	자동 고침 옵션
 	AutoFit	자동 맞춤
@@ -214,6 +216,10 @@
 	AutoSave saves every change to the file (needs a saved document)	자동 저장은 모든 변경 내용을 파일에 저장합니다(문서를 먼저 저장해야 함).
 	AutoSave writes your changes to the file a moment after you stop typing.	입력을 멈추면 잠시 후 자동 저장이 변경 내용을 파일에 기록합니다.
 	AutoText	상용구
+	Axis	축
+	Axis Labels	축 이름
+	Axis line	축 선
+	Axis Titles	축 제목
 	Backspace	백스페이스
 	Balloons	말풍선
 	Banded Columns	줄무늬 열
@@ -508,6 +514,7 @@
 	Current - Professional	현재 - 전문
 	Current Position	현재 위치
 	Current record	현재 레코드
+	Current Selection	현재 선택
 	Current style: {style}	현재 스타일: {style}
 	Curved Arrow Connector	곡선 화살표 연결선
 	Curved Connector	곡선 연결선
@@ -533,6 +540,7 @@
 	Dark with Shadow	그림자가 있는 어두운색
 	Darkroom	Darkroom
 	Data Labels	데이터 레이블
+	Data labels	데이터 이름
 	Date & Time	날짜 및 시간
 	Date formats:	날짜 형식:
 	Date Picker Content Control	날짜 선택 콘텐츠 컨트롤
@@ -766,6 +774,7 @@
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	파일 › 새로 만들기의 개인 아래에 이 폴더의 .dotx 및 .dotm 서식 파일이 표시됩니다. Word 서식 파일로 저장은 여기에서 시작합니다.
 	Fill	채우기
 	Fill color:	채우기 색:
+	Fill:	채우기:
 	Filling in forms	양식 작성
 	Film	영화
 	Filter Recipients	받는 사람 필터
@@ -805,9 +814,14 @@
 	Footnotes	각주
 	Footnotes and endnotes	각주 및 미주
 	Footnotes to endnotes	각주를 미주로 변환
+	Format Axis	축 형식
+	Format Axis…	축 형식…
 	Format Page Numbers	페이지 번호 서식
 	Format Page Numbers…	페이지 번호 서식…
 	Format Painter	서식 복사
+	Format Selection	선택 형식
+	Format Series	계열 형식
+	Format Series…	계열 형식…
 	Format Shape	도형 서식
 	Format Shape Pane	도형 서식 창
 	Format Shape…	도형 서식…
@@ -1146,6 +1160,7 @@
 	Link entries to their headings	항목을 제목에 연결
 	Link level to style:	수준을 스타일에 연결:
 	Link to Previous	이전 머리글/바닥글과 연결
+	linked	연결됨
 	Linked style (paragraph and character)	연결된 스타일 (단락 및 문자)
 	Links and References	링크 및 참조
 	Link…	링크…
@@ -1178,6 +1193,7 @@
 	Mail Merge	메일 병합
 	Mailings	편지
 	Main entry:	주 항목:
+	Major gridlines	주요 눈금선
 	Make WordCraft the default for Word documents…	Word 문서의 기본 앱으로 WordCraft 설정…
 	Manage Sources	출처 관리
 	Manage Styles	스타일 관리
@@ -1200,6 +1216,7 @@
 	Mark\nCitation	인용\n표시
 	Mark\nEntry	항목\n표시
 	Markdown (*.md)	Markdown (*.md)
+	Markers	마커
 	Match case	대/소문자 구분
 	Match Fields	필드 일치
 	Match prefix	접두사 일치
@@ -1210,6 +1227,7 @@
 	Matrix	행렬
 	Maximum	최댓값
 	Maximum Example	최댓값 예
+	Maximum:	최댓값:
 	Measured By	측정 기준
 	Measurement units:	측정 단위:
 	Merge cells before split	나누기 전에 셀 병합
@@ -1218,6 +1236,7 @@
 	Mesosphere	중간권
 	Midline Dots	가운데 점
 	Minimum	최솟값
+	Minimum:	최솟값:
 	Minus Equal	빼기 등호
 	Mirror indents	좌우 대칭 들여쓰기
 	Mirrored	좌우 대칭
@@ -1343,6 +1362,7 @@
 	Number	번호
 	Number alignment:	번호 맞춤:
 	Number format	번호 서식
+	Number format:	번호 형식:
 	Number of columns:	열 수:
 	Number of rows:	행 수:
 	Number of the page the field sits on	필드가 있는 페이지 번호
@@ -1778,6 +1798,7 @@
 	Sequence name:	시퀀스 이름:
 	Serbian (Cyrillic)	세르비아어(키릴 문자)
 	Serbian (Latin)	세르비아어(라틴 문자)
+	Series	계열
 	Series name	계열 이름
 	Series {n}	계열 {n}
 	Set As Default	기본값으로 설정
@@ -1885,6 +1906,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	SmartArt 디자인
 	SmartArt Styles	SmartArt 스타일
+	Smooth lines	매끄러운 선
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	부드럽게 스크롤하고 확대/축소하며 메뉴와 단추가 서서히 나타납니다. 끄면 모든 변경 사항이 즉시 표시됩니다.
 	Soft Edges	부드러운 가장자리
 	Soft Glow	부드러운 광채
@@ -2079,6 +2101,7 @@
 	this text box is already linked: break the link first	이 텍스트 상자는 이미 연결되어 있습니다: 먼저 연결을 끊으세요
 	Three	세 개
 	Through	텍스트 통과
+	Tick labels	눈금 이름
 	Tight	좁게
 	Tilde	물결표(~)
 	Tips ({n})	팁({n})
@@ -2230,6 +2253,7 @@ preview	Title	제목
 	Wide	넓게
 	Widow/Orphan Control	고아 줄 및 과부 줄 제어
 	Widow/Orphan control	고아 줄 및 과부 줄 제어
+	Width (pt):	두께(pt):
 	Width and spacing	너비 및 간격
 	Wildcards (regex)	와일드카드 (정규식)
 	With:	다음으로:
@@ -2282,6 +2306,9 @@ preview	Title	제목
 	{width} × {height} pixels	{width} × {height} 픽셀
 	{words} words	단어 {words}개
 	“{text}” ({row}, {series}) isn't a number.	“{text}”({row}, {series})은(는) 숫자가 아닙니다.
+	“{text}” isn't a colour (RRGGBB).	“{text}”은 색상(RRGGBB)이 아닙니다.
+	“{text}” isn't a number.	“{text}”는 숫자가 아닙니다.
+	“{text}” isn't a width in points.	“{text}”는 pt 단위 폭이 아닙니다.
 	✓ None	✓ 없음
 	➕ New comment	➕ 새 메모
 	📂  Browse…	📂  찾아보기…

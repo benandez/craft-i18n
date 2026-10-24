@@ -61,6 +61,7 @@
 	Above the item	Az elem fölött
 	Absolute value cases	Abszolút érték esetszétválasztással
 	Accent	Ékezet
+	accent	kiemelés
 	Accent Gradient	Kiemelőszínes színátmenet
 	Accent with Reflection	Kiemelőszín tükröződéssel
 	Accent {n}	Kiemelőszín {n}
@@ -186,6 +187,7 @@
 	Atmosphere	Légkör
 	Attach Template	Sablon csatolása
 	Attach…	Csatolás…
+	auto	auto
 	AutoCorrect	Automatikus javítás
 	AutoCorrect Options	Automatikus javítás beállításai
 	AutoFit	Automatikus méretezés
@@ -214,6 +216,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Az automatikus mentés minden módosítást a fájlba ír (ehhez mentett dokumentum kell)
 	AutoSave writes your changes to the file a moment after you stop typing.	Az automatikus mentés néhány pillanattal a gépelés abbahagyása után a fájlba írja a módosításaidat.
 	AutoText	Autoszöveg
+	Axis	Tengely
+	Axis Labels	Tengelyfeliratok
+	Axis line	Tengelyvonal
+	Axis Titles	Tengelycímek
 	Balloons	Buborékok
 	Banded Columns	Sávos oszlopok
 	Banded Rows	Sávos sorok
@@ -513,6 +519,7 @@
 	Current - Professional	Aktuális – kétdimenziós
 	Current Position	Jelenlegi pozíció
 	Current record	Aktuális rekord
+	Current Selection	Aktuális kiválasztás
 	Current style: {style}	Jelenlegi stílus: {style}
 	Curved Arrow Connector	Ívelt nyilas összekötő
 	Curved Connector	Ívelt összekötő
@@ -539,6 +546,7 @@
 	Dark with Shadow	Sötét, árnyékkal
 	Darkroom	Sötétkamra
 	Data Labels	Adatfeliratok
+	Data labels	Adatfeliratok
 	Date & Time	Dátum és idő
 	Date formats:	Dátumformátumok:
 	Date Picker Content Control	Dátumválasztó-tartalomvezérlő
@@ -823,9 +831,14 @@
 	Footnotes and endnotes	Láb- és végjegyzetek
 	Footnotes to endnotes	Lábjegyzetekből végjegyzetek
 	For which item:	Melyik elemhez:
+	Format Axis	Tengely formázása
+	Format Axis…	Tengely formázása…
 	Format Page Numbers	Oldalszámok formázása
 	Format Page Numbers…	Oldalszámok formázása…
 	Format Painter	Formátummásoló
+	Format Selection	Kiválasztás formázása
+	Format Series	Adatsor formázása
+	Format Series…	Adatsor formázása…
 	Format Shape	Alakzat formázása
 	Format Shape Pane	Alakzat formázása munkaablak
 	Format Shape…	Alakzat formázása…
@@ -1183,6 +1196,7 @@
 	Link level to style:	A szinthez tartozó stílus:
 	Link to Previous	Csatolás az előzőhöz
 	Link to:	Hivatkozás helye:
+	linked	összefűzve
 	Linked style (paragraph and character)	Csatolt stílus (bekezdés és karakter)
 	Links	Linkek
 	Links and References	Linkek és hivatkozások
@@ -1216,6 +1230,7 @@
 	Mail Merge	Körlevél
 	Mailings	Levelezés
 	Main entry:	Főbejegyzés:
+	Major gridlines	Fő rácsvonalak
 	Make WordCraft the default for Word documents…	A WordCraft legyen az alapértelmezett a Word-dokumentumokhoz…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	A menüszalag, a menük és a párbeszédablakok nagyítása vagy kicsinyítése. Az Automatikus a rendszer kijelzőméretezését követi; 100% pontonként egy képernyőpixel. A dokumentum nagyítása ettől független.
 	Manage Sources	Források kezelése
@@ -1239,6 +1254,7 @@
 	Mark\nCitation	Hivatkozás\nmegjelölése
 	Mark\nEntry	Bejegyzés\nmegjelölése
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Jelölőjegyek
 	Match case	Kis- és nagybetű megkülönböztetése
 	Match Fields	Mezők megfeleltetése
 	Match prefix	Egyezés a szó elején
@@ -1249,6 +1265,7 @@
 	Matrix	Mátrix
 	Maximum	Maximum
 	Maximum Example	Maximum (példa)
+	Maximum:	Maximum:
 	Measured By	Mértékegysége
 	Measurement units:	Mértékegység:
 	Merge	Egyesítés
@@ -1259,6 +1276,7 @@
 	Middle	Középen
 	Midline Dots	Középvonali pontok
 	Minimum	Minimum
+	Minimum:	Minimum:
 	Minus Equal	Mínusz-egyenlő
 	Mirror indents	Tükrözött behúzások
 	Mirror margins	Tükrözött margók
@@ -1393,6 +1411,7 @@
 	Num Occurrences	Előfordulások száma
 	Number alignment:	Számigazítás:
 	Number format	Számformátum
+	Number format:	Sorszámformátum:
 	Number of columns:	Oszlopok száma:
 	Number of rows:	Sorok száma:
 	Number of the page the field sits on	A mezőt tartalmazó oldal száma
@@ -1839,6 +1858,7 @@
 	Sequence name:	Sorozat neve:
 	Serbian (Cyrillic)	Szerb (cirill)
 	Serbian (Latin)	Szerb (latin)
+	Series	Adatsor
 	Series name	Adatsor neve
 	Series {n}	Adatsor {n}
 	Set As Default	Beállítás alapértelmezettként
@@ -1950,6 +1970,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	SmartArt-tervezés
 	SmartArt Styles	SmartArt-stílusok
+	Smooth lines	Simított vonalak
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Sima görgetés és nagyítás, fokozatosan megjelenő menük és gombok. Kikapcsolva minden változás azonnal látszik.
 	Soft Edges	Lágy szélek
 	Soft Glow	Lágy ragyogás
@@ -2157,6 +2178,7 @@
 	this text box is already linked: break the link first	ez a szövegdoboz már csatolva van: előbb bontsa a csatolást
 	Three	Három
 	Through	Átfutó
+	Tick labels	Beosztásfeliratok
 	Tight	Szoros
 	Tilde	Hullámvonal
 	Tips ({n})	Tippek ({n})
@@ -2307,6 +2329,7 @@
 	Wide	Széles
 	Widow/Orphan Control	Fattyú- és árvasorok kezelése
 	Widow/Orphan control	Fattyú- és árvasorok kezelése
+	Width (pt):	Vastagság (pont):
 	Width and spacing	Szélesség és térköz
 	With:	Mire:
 	Word 2003 XML Document (*.xml)	Word 2003 XML-dokumentum (*.xml)
@@ -2370,6 +2393,9 @@
 	{width} × {height} pixels	{width} × {height} képpont
 	{words} words	{words} szó
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nem szám.
+	“{text}” isn't a colour (RRGGBB).	„{text}” nem szín (RRGGBB).
+	“{text}” isn't a number.	„{text}” nem szám.
+	“{text}” isn't a width in points.	„{text}” nem pontokban megadott vastagság.
 	✓ None	✓ Nincs
 	➕ New comment	➕ Új megjegyzés
 	📂  Browse…	📂  Tallózás…

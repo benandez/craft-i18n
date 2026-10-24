@@ -61,6 +61,7 @@
 	Above the item	Ovanför objektet
 	Absolute value cases	Fall med absolutbelopp
 	Accent	Accent
+	accent	accent
 	Accent Gradient	Accenttoning
 	Accent with Reflection	Accent med spegling
 	Accent {n}	Accent {n}
@@ -184,6 +185,7 @@
 	Atmosphere	Atmosfär
 	Attach Template	Koppla mall
 	Attach…	Koppla…
+	auto	auto
 	AutoCorrect	Autokorrigering
 	AutoCorrect Options	Alternativ för autokorrigering
 	AutoFit	Autoanpassa
@@ -212,6 +214,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Autospara sparar varje ändring i filen (kräver ett sparat dokument)
 	AutoSave writes your changes to the file a moment after you stop typing.	Autospara skriver dina ändringar till filen en liten stund efter att du slutat skriva.
 	AutoText	Autotext
+	Axis	Axel
+	Axis Labels	Axelns etiketter
+	Axis line	Axellinje
+	Axis Titles	Axelnamn
 	B4 (JIS)   10.12" × 14.33"	B4 (JIS)   10,12" × 14,33"
 	B5 (JIS)   7.17" × 10.12"	B5 (JIS)   7,17" × 10,12"
 	Balloons	Pratbubblor
@@ -506,6 +512,7 @@
 	Current - Professional	Aktuell – professionell
 	Current Position	Aktuell position
 	Current record	Aktuell post
+	Current Selection	Aktuell markering
 	Current style: {style}	Aktuell stil: {style}
 	Curved Arrow Connector	Böjd pilkoppling
 	Curved Connector	Böjd koppling
@@ -532,6 +539,7 @@
 	Dark with Shadow	Mörk med skugga
 	Darkroom	Mörkrum
 	Data Labels	Dataetiketter
+	Data labels	Dataetiketter
 	Date & Time	Datum och tid
 	Date formats:	Datumformat:
 	Date Picker Content Control	Innehållskontroll för datumväljare
@@ -774,6 +782,7 @@
 	File name:	Filnamn:
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Arkiv › Ny visar .dotx- och .dotm-mallarna härifrån under Personliga; Spara som Word-mall börjar här.
 	Fill color:	Fyllningsfärg:
+	Fill:	Ifyllning:
 	Filling in forms	Ifyllning av formulär
 	Film	Film
 	Filter and Sort	Filtrera och sortera
@@ -815,9 +824,14 @@
 	Footnotes and endnotes	Fotnoter och slutnoter
 	Footnotes to endnotes	Fotnoter till slutnoter
 	For which item:	För vilket objekt:
+	Format Axis	Formatera axeln
+	Format Axis…	Formatera axeln…
 	Format Page Numbers	Formatera sidnummer
 	Format Page Numbers…	Formatera sidnummer…
 	Format Painter	Formatpensel
+	Format Selection	Formatera markeringen
+	Format Series	Formatera serien
+	Format Series…	Formatera serien…
 	Format Shape	Formatera form
 	Format Shape Pane	Fönstret Formatera form
 	Format Shape…	Formatera form…
@@ -1174,6 +1188,7 @@ template	Letter	Brev
 	Link level to style:	Koppla nivån till stil:
 	Link to Previous	Länka till föregående
 	Link to:	Länka till:
+	linked	linkad
 	Linked style (paragraph and character)	Länkad stil (stycke och tecken)
 	Links and References	Länkar och referenser
 	Link…	Länk…
@@ -1207,6 +1222,7 @@ template	Letter	Brev
 	Mail Merge	Dokumentkoppling
 	Mailings	Utskick
 	Main entry:	Huvudpost:
+	Major gridlines	Huvudnätlinjer
 	Make WordCraft the default for Word documents…	Gör WordCraft till standardprogram för Word-dokument…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Gör menyfliksområdet, menyerna och dialogrutorna större eller mindre. Automatisk följer systemets skalning av skärmen; 100 % är en skärmpixel per punkt. Dokumentets zoom ställs in separat.
 	Manage Sources	Hantera källor
@@ -1230,6 +1246,7 @@ template	Letter	Brev
 	Mark\nCitation	Märk\nkällhänvisning
 	Mark\nEntry	Märk\npost
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Markörer
 	Match case	Matcha skiftläge
 	Match Fields	Matcha fält
 	Match prefix	Matcha prefix
@@ -1239,6 +1256,7 @@ template	Letter	Brev
 	Matrices with Brackets	Matriser med parenteser
 	Matrix	Matris
 	Maximum Example	Exempel på maximum
+	Maximum:	Maximum:
 	Measured By	Mäts med
 	Measurement units:	Måttenheter:
 	Merge cells before split	Sammanfoga celler före delning
@@ -1246,6 +1264,7 @@ template	Letter	Brev
 	Merge Record #	Kopplingspostens nummer
 	Mesosphere	Mesosfär
 	Midline Dots	Punkter på mittlinjen
+	Minimum:	Minimum:
 	Minus Equal	Minus lika med
 	Mirror indents	Spegelvända indrag
 	Mirror margins	Spegelvända marginaler
@@ -1378,6 +1397,7 @@ template	Letter	Brev
 	Num Occurrences	Antal förekomster
 	Number alignment:	Justering av nummer:
 	Number format	Nummerformat
+	Number format:	Sifformat:
 	Number of columns:	Antal kolumner:
 	Number of rows:	Antal rader:
 	Number of the page the field sits on	Numret på sidan där fältet står
@@ -1819,6 +1839,7 @@ template	Letter	Brev
 	Sequence name:	Serienamn:
 	Serbian (Cyrillic)	Serbiska (kyrilliska)
 	Serbian (Latin)	Serbiska (latinska)
+	Series	Serie
 	Series name	Serienamn
 	Series {n}	Serie {n}
 	Set As Default	Ange som standard
@@ -1931,6 +1952,7 @@ template	Letter	Brev
 	SmartArt	SmartArt
 	SmartArt Design	SmartArt-design
 	SmartArt Styles	SmartArt-stilar
+	Smooth lines	Utjämnade linjer
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Mjuk rullning och zoomning, och menyer och knappar som tonas in. Av visar varje ändring direkt.
 	Soft Edges	Mjuka kanter
 	Soft Glow	Mjuk glöd
@@ -2138,6 +2160,7 @@ template	Letter	Brev
 	this text box is already linked: break the link first	denna textruta är redan länkad: bryt länken först
 	Three	Tre
 	Through	Genom
+	Tick labels	Gradertaggar
 	Tight	Tät
 	Tilde	Tilde
 	Tips ({n})	Tips ({n})
@@ -2291,6 +2314,7 @@ preview	Title	Titel
 	Wide	Bred
 	Widow/Orphan Control	Undvik ensamma rader
 	Widow/Orphan control	Undvik ensamma rader
+	Width (pt):	Bredd (pt):
 	Width and spacing	Bredd och avstånd
 	Wildcards (regex)	Jokertecken (regex)
 	With:	Med:
@@ -2352,6 +2376,9 @@ preview	Title	Titel
 	{width} × {height} pixels	{width} × {height} pixlar
 	{words} words	{words} ord
 	“{text}” ({row}, {series}) isn't a number.	”{text}” ({row}, {series}) är inget tal.
+	“{text}” isn't a colour (RRGGBB).	”{text}” är ingen färg (RRGGBB).
+	“{text}” isn't a number.	”{text}” är inget tal.
+	“{text}” isn't a width in points.	”{text}” är ingen bredd i punkter.
 	✓ None	✓ Ingen
 	➕ New comment	➕ Ny kommentar
 	📂  Browse…	📂  Bläddra…

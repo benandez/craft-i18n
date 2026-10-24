@@ -42,6 +42,7 @@
 	Above Chart	Acima do gráfico
 	Above the item	Acima do item
 	Accent	Acento
+	accent	acento
 	Accent Gradient	Gradiente de destaque
 	Accent with Reflection	Destaque com reflexo
 	Accent {n}	Ênfase {n}
@@ -155,6 +156,7 @@
 	Attach Template	Anexar modelo
 	Attach…	Anexar…
 	Auto	Auto
+	auto	automático
 	Auto ({percent}%)	Auto ({percent}%)
 	AutoCorrect	Autocorreção
 	AutoCorrect Options	Opções de autocorreção
@@ -184,6 +186,10 @@
 	AutoSave saves every change to the file (needs a saved document)	O salvamento automático grava cada alteração no arquivo (requer um documento já salvo)
 	AutoSave writes your changes to the file a moment after you stop typing.	O salvamento automático grava suas alterações no arquivo pouco depois que você para de digitar.
 	AutoText	Autotexto
+	Axis	Eixo
+	Axis Labels	Rótulos dos eixos
+	Axis line	Linha do eixo
+	Axis Titles	Títulos dos eixos
 	Balloons	Balões
 	Banded Columns	Colunas listradas
 	Banded Rows	Linhas listradas
@@ -415,6 +421,7 @@
 	Cross-reference:	Referência cruzada:
 	Current Position	Posição atual
 	Current record	Registro atual
+	Current Selection	Seleção atual
 	Current style: {style}	Estilo atual: {style}
 	Curved Arrow Connector	Conector curvo com seta
 	Curved Connector	Conector curvo
@@ -441,6 +448,7 @@
 	Dark with Shadow	Escuro com sombra
 	Darkroom	Câmara escura
 	Data Labels	Rótulos de dados
+	Data labels	Rótulos de dados
 	Date & Time	Data e hora
 	Date format	Formato da data
 	Date formats:	Formatos de data:
@@ -688,9 +696,14 @@
 	Footnotes and endnotes	Notas de rodapé e notas de fim
 	Footnotes to endnotes	Notas de rodapé em notas de fim
 	Format	Formatar
+	Format Axis	Formatar eixo
+	Format Axis…	Formatar eixo…
 	Format Page Numbers	Formatar números de página
 	Format Page Numbers…	Formatar números de página…
 	Format Painter	Pincel de formatação
+	Format Selection	Formatar seleção
+	Format Series	Formatar série
+	Format Series…	Formatar série…
 	Format Shape	Formatar Forma
 	Format Shape Pane	Painel Formatar Forma
 	Format Shape…	Formatar Forma…
@@ -974,6 +987,7 @@
 	Link level to style:	Vincular nível ao estilo:
 	Link to Previous	Vincular ao anterior
 	Link to:	Vincular a:
+	linked	vinculado
 	Linked style (paragraph and character)	Estilo vinculado (parágrafo e caractere)
 	Links and References	Links e referências
 	Link…	Link…
@@ -995,6 +1009,7 @@
 	Mail Merge	Mala direta
 	Mailings	Correspondências
 	Main entry:	Entrada principal:
+	Major gridlines	Linhas de grade principais
 	Make WordCraft the default for Word documents…	Tornar o WordCraft o aplicativo padrão para documentos do Word…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Aumenta ou diminui a faixa de opções, os menus e as caixas de diálogo. Auto segue a escala de exibição do sistema; 100% é um pixel da tela por ponto. O zoom do documento é separado.
 	Manage Sources	Gerenciar fontes
@@ -1018,6 +1033,7 @@
 	Mark\nCitation	Marcar\ncitação
 	Mark\nEntry	Marcar\nentrada
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Marcadores
 	Match case	Diferenciar maiúsculas de minúsculas
 	Match Fields	Corresponder campos
 	Match prefix	Coincidir prefixo
@@ -1025,11 +1041,13 @@
 	Matches: {count}	Correspondências: {count}
 	Math AutoCorrect	Autocorreção de matemática
 	Matrix	Matriz
+	Maximum:	Máximo:
 	Measurement units:	Unidades de medida:
 	Merge cells before split	Mesclar células antes de dividir
 	Merge Formatting	Mesclar formatação
 	Merge Record #	Nº do registro de mesclagem
 	Mesosphere	Mesosfera
+	Minimum:	Mínimo:
 	Mirror indents	Recuos espelhados
 	Mirror margins	Margens espelho
 	Mirrored	Espelhada
@@ -1161,6 +1179,7 @@
 	Num Occurrences	Número de ocorrências
 	Number alignment:	Alinhamento do número:
 	Number format	Formato do número
+	Number format:	Formato de número:
 	Number of columns:	Número de colunas:
 	Number of rows:	Número de linhas:
 	Number of the page the field sits on	O número da página atual
@@ -1569,6 +1588,7 @@
 	Sequence name:	Nome da sequência:
 	Serbian (Cyrillic)	Sérvio (cirílico)
 	Serbian (Latin)	Sérvio (latino)
+	Series	Série
 	Series name	Nome da série
 	Series {n}	Série {n}
 	Set As Default	Definir como padrão
@@ -1664,6 +1684,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	Design do SmartArt
 	SmartArt Styles	Estilos de SmartArt
+	Smooth lines	Linhas suavizadas
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Rolagem e zoom suaves, e menus e botões que aparecem gradualmente. Com “Desativado”, cada alteração é mostrada de imediato.
 	Soft Edges	Bordas suaves
 	Soft Glow	Brilho suave
@@ -1839,6 +1860,7 @@
 	this text box is already linked: break the link first	esta caixa de texto já está vinculada: desfaça o vínculo primeiro
 	Three	Três
 	Through	Através
+	Tick labels	Rótulos de graduação
 	Tight	Estreito
 	Tips ({n})	Dicas ({n})
 	Title Bar	Barra de título
@@ -1955,6 +1977,7 @@
 	Wide	Ampla
 	Widow/Orphan Control	Controle de viúvas e órfãs
 	Widow/Orphan control	Controle de viúvas e órfãs
+	Width (pt):	Largura (pt):
 	Width and spacing	Largura e espaçamento
 	With:	Por:
 	Word 2003 XML Document (*.xml)	Documento XML do Word 2003 (*.xml)
@@ -2013,3 +2036,6 @@
 	{width} × {height} pixels	{width} × {height} pixels
 	{words} words	Palavras: {words}
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) não é um número.
+	“{text}” isn't a colour (RRGGBB).	“{text}” não é uma cor (RRGGBB).
+	“{text}” isn't a number.	“{text}” não é um número.
+	“{text}” isn't a width in points.	“{text}” não é uma largura em pontos.
