@@ -42,6 +42,7 @@
 	Above Chart	Diagrammi kohal
 	Above the item	Objekti kohal
 	Accent	Rõhumärk
+	accent	aktsent
 	Accent Gradient	Rõhuvärvi üleminek
 	Accent with Reflection	Rõhuvärv peegeldusega
 	Accent {n}	Rõhk {n}
@@ -154,6 +155,7 @@
 	Atmosphere	Atmosfäär
 	Attach Template	Manusta mall
 	Attach…	Manusta…
+	auto	automaatne
 	AutoCorrect	Automaatparandus
 	AutoCorrect Options	Automaatparanduse valikud
 	AutoFit	Automaatne sobitus
@@ -182,6 +184,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Automaatsalvestus salvestab iga muudatuse faili (dokument peab olema salvestatud)
 	AutoSave writes your changes to the file a moment after you stop typing.	Automaatsalvestus kirjutab muudatused faili veidi pärast seda, kui lõpetad kirjutamise.
 	AutoText	Automaattekst
+	Axis	Telg
+	Axis Labels	Telje sildid
+	Axis line	Teljejoon
+	Axis Titles	Telje pealkirjad
 	Balloons	Mullid
 	Banded Columns	Vahelduvad veerud
 	Banded Rows	Vahelduvad read
@@ -407,6 +413,7 @@
 	Cross-reference:	Ristviide:
 	Current Position	Praegune asukoht
 	Current record	Praegune kirje
+	Current Selection	Valitud objekt
 	Current style: {style}	Praegune stiil: {style}
 	Curved Arrow Connector	Kaardus noolega ühendusjoon
 	Curved Connector	Kaardus ühendusjoon
@@ -433,6 +440,7 @@
 	Dark with Shadow	Tume varjuga
 	Darkroom	Pimik
 	Data Labels	Andmesildid
+	Data labels	Andmed
 	Date & Time	Kuupäev ja kellaaeg
 	Date formats:	Kuupäevavormingud:
 	Date Picker Content Control	Kuupäevavalija sisujuhtelement
@@ -635,6 +643,7 @@
 	File name:	Faili nimi:
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Fail › Uus loetleb siinsed .dotx- ja .dotm-mallid jaotises Isiklik; Salvesta Wordi mallina alustab siit.
 	Fill color:	Täitevärv:
+	Fill:	Täius:
 	Filling in forms	Vormide täitmine
 	Film	Film
 	Filter and Sort	Filtreerimine ja sortimine
@@ -673,9 +682,14 @@
 	Footnotes	Allmärkused
 	Footnotes and endnotes	Allmärkused ja lõpumärkused
 	Footnotes to endnotes	Allmärkused lõpumärkusteks
+	Format Axis	Telje vormindamine
+	Format Axis…	Telje vormindamine…
 	Format Page Numbers	Vorminda leheküljenumbrid
 	Format Page Numbers…	Vorminda leheküljenumbrid…
 	Format Painter	Vormingupintsel
+	Format Selection	Valiku vormindamine
+	Format Series	Sarja vormindamine
+	Format Series…	Sarja vormindamine…
 	Format Shape	Kujundi vormindamine
 	Format Shape Pane	Kujundi vormindamise paan
 	Format Shape…	Vorminda kujund…
@@ -956,6 +970,7 @@
 	Link level to style:	Seo tase stiiliga:
 	Link to Previous	Seo eelmisega
 	Link to:	Link:
+	linked	seotud
 	Linked style (paragraph and character)	Lingitud stiil (lõik ja märgid)
 	Links and References	Lingid ja viited
 	Link…	Link…
@@ -978,6 +993,7 @@
 	Mail Merge	Kirjakooste
 	Mailings	Postitused
 	Main entry:	Põhikirje:
+	Major gridlines	Peamised joonestusjooned
 	Make WordCraft the default for Word documents…	Määra WordCraft Wordi dokumentide vaikerakenduseks…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Muudab menüülindi, menüüd ja dialoogid suuremaks või väiksemaks. Automaatne järgib süsteemi ekraani skaleerimist; 100% on üks ekraanipiksel punkti kohta. Dokumendi suum on eraldi.
 	Manage Sources	Halda allikaid
@@ -1001,6 +1017,7 @@
 	Mark\nCitation	Märgi\nõigusallikas
 	Mark\nEntry	Märgi\nregistrikirje
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Markerid
 	Match case	Erista suur- ja väiketähti
 	Match Fields	Vastenda väljad
 	Match prefix	Sobita eesliide
@@ -1008,11 +1025,15 @@
 	Matches: {count}	Vasteid: {count}
 	Math AutoCorrect	Matemaatika automaatparandus
 	Matrix	Maatriks
+	Maximum	Maksimum
+	Maximum:	Maksimum:
 	Measurement units:	Mõõtühikud:
 	Merge cells before split	Ühenda lahtrid enne tükeldamist
 	Merge Formatting	Ühenda vormindus
 	Merge Record #	Ühendatava kirje nr
 	Mesosphere	Mesosfäär
+	Minimum	Miinimum
+	Minimum:	Miinimum:
 	Mirror indents	Peegelda taanded
 	Mirror margins	Peegelveerised
 	Mirrored	Peegeldatud
@@ -1137,6 +1158,7 @@
 	Num Occurrences	Korduste arv
 	Number alignment:	Numbri joondus:
 	Number format	Numbri vorming
+	Number format:	Arvunaformaat:
 	Number of columns:	Veergude arv:
 	Number of rows:	Ridade arv:
 	Number of the page the field sits on	Välja lehekülje number
@@ -1542,6 +1564,7 @@
 	Sequence name:	Jada nimi:
 	Serbian (Cyrillic)	Serbia (kirillitsa)
 	Serbian (Latin)	Serbia (ladina)
+	Series	Seria
 	Series name	Sarja nimi
 	Series {n}	Sari {n}
 	Set As Default	Määra vaikeväärtuseks
@@ -1635,6 +1658,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	SmartArti kujundus
 	SmartArt Styles	SmartArti laadid
+	Smooth lines	Siled jooned
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Sujuv kerimine ja suumimine ning menüüde ja nuppude sujuv ilmumine. Valikuga „Väljas“ kuvatakse iga muudatus kohe.
 	Soft	Pehme
 	Soft Edges	Pehmed servad
@@ -1810,6 +1834,7 @@
 	this text box is already linked: break the link first	see tekstiväli on juba lingitud: katkestage esmalt link
 	Three	Kolm
 	Through	Läbiv
+	Tick labels	Jaotiste sildid
 	Tight	Tihe
 	Tips ({n})	Näpunäited ({n})
 	Title Bar	Tiitliriba
@@ -1927,6 +1952,7 @@
 	Wide	Lai
 	Widow/Orphan Control	Üksikridade vältimine
 	Widow/Orphan control	Üksikridade vältimine
+	Width (pt):	Laius (pt):
 	Width and spacing	Laius ja vahe
 	With:	Millega:
 	Word 2003 XML Document (*.xml)	Word 2003 XML-dokument (*.xml)
@@ -1984,3 +2010,6 @@
 	{width} × {height} pixels	{width} × {height} pikslit
 	{words} words	Sõnu: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) ei ole arv.
+	“{text}” isn't a colour (RRGGBB).	„{text}” pole värv (RRGGBB).
+	“{text}” isn't a number.	„{text}” ei ole arv.
+	“{text}” isn't a width in points.	„{text}” ei ole laius punktides.

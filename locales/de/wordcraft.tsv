@@ -43,6 +43,7 @@
 	Above Chart	Über dem Diagramm
 	Above the item	Über dem Element
 	Accent	Akzent
+	accent	Akzent
 	Accent Gradient	Akzentverlauf
 	Accent with Reflection	Akzent mit Spiegelung
 	Accent {n}	Akzent {n}
@@ -158,6 +159,7 @@
 	Attach Template	Vorlage anfügen
 	Attach…	Anfügen…
 	Author	Autor
+	auto	Auto
 	Auto ({percent}%)	Automatisch ({percent}%)
 	AutoCorrect	AutoKorrektur
 	AutoCorrect Options	AutoKorrektur-Optionen
@@ -187,6 +189,10 @@
 	AutoSave saves every change to the file (needs a saved document)	AutoSpeichern speichert jede Änderung in der Datei (erfordert ein gespeichertes Dokument)
 	AutoSave writes your changes to the file a moment after you stop typing.	AutoSpeichern schreibt Ihre Änderungen kurz nach dem Ende der Eingabe in die Datei.
 	AutoText	Textbausteine
+	Axis	Achse
+	Axis Labels	Achsenbeschriftungen
+	Axis line	Achsenlinie
+	Axis Titles	Achsentitel
 	Balloons	Sprechblasen
 	Banded Columns	Gestreifte Spalten
 	Banded Rows	Gestreifte Zeilen
@@ -422,6 +428,7 @@
 	Cross-reference:	Querverweis:
 	Current Position	Aktuelle Position
 	Current record	Aktueller Datensatz
+	Current Selection	Aktuelle Auswahl
 	Current style: {style}	Aktuelle Formatvorlage: {style}
 	Curved Arrow Connector	Gekrümmte Verbindung mit Pfeil
 	Curved Connector	Gekrümmte Verbindung
@@ -448,6 +455,7 @@
 	Dark with Shadow	Dunkel mit Schatten
 	Darkroom	Darkroom
 	Data Labels	Datenbeschriftungen
+	Data labels	Datenbeschriftungen
 	Date & Time	Datum und Uhrzeit
 	Date formats:	Datumsformate:
 	Date Picker Content Control	Datumsauswahl-Inhaltssteuerelement
@@ -652,6 +660,7 @@
 	File name:	Dateiname:
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Datei › Neu zeigt die .dotx- und .dotm-Vorlagen von hier unter Persönlich; Als Word-Vorlage speichern beginnt hier.
 	Fill color:	Füllfarbe:
+	Fill:	Füllung:
 	Filling in forms	Ausfüllen von Formularen
 	Film	Film
 	Filter and Sort	Filtern und Sortieren
@@ -691,9 +700,14 @@
 	Footnotes	Fußnoten
 	Footnotes and endnotes	Fuß- und Endnoten
 	Footnotes to endnotes	Fußnoten in Endnoten
+	Format Axis	Achse formatieren
+	Format Axis…	Achse formatieren…
 	Format Page Numbers	Seitenzahlen formatieren
 	Format Page Numbers…	Seitenzahlen formatieren…
 	Format Painter	Format übertragen
+	Format Selection	Auswahl formatieren
+	Format Series	Datenreihe formatieren
+	Format Series…	Datenreihe formatieren…
 	Format Shape	Form formatieren
 	Format Shape Pane	Bereich „Form formatieren“
 	Format Shape…	Form formatieren…
@@ -981,6 +995,7 @@
 	Link level to style:	Ebene mit Formatvorlage verknüpfen:
 	Link to Previous	Mit vorheriger verknüpfen
 	Link to:	Link zu:
+	linked	verknüpft
 	Linked style (paragraph and character)	Verknüpfte Formatvorlage (Absatz und Zeichen)
 	Links	Links
 	Links and References	Hyperlinks und Verweise
@@ -1005,6 +1020,7 @@
 	Mail Merge	Seriendruck
 	Mailings	Sendungen
 	Main entry:	Haupteintrag:
+	Major gridlines	Hauptnetzlinien
 	Make WordCraft the default for Word documents…	WordCraft als Standard für Word-Dokumente festlegen…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Vergrößert oder verkleinert Menüband, Menüs und Dialoge. „Automatisch“ folgt der Anzeigeskalierung Ihres Systems; 100% ist ein Bildschirmpixel pro Punkt. Die Dokumentansicht ist davon getrennt.
 	Manage Sources	Quellen verwalten
@@ -1028,6 +1044,7 @@
 	Mark\nCitation	Zitat\nmarkieren
 	Mark\nEntry	Eintrag\nmarkieren
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Markierungen
 	Match case	Groß-/Kleinschreibung beachten
 	Match Fields	Felder abgleichen
 	Match prefix	Präfix beachten
@@ -1036,6 +1053,7 @@
 	Math AutoCorrect	Math. AutoKorrektur
 	Matrix	Matrix
 	Maximum	Maximum
+	Maximum:	Maximum:
 	Measurement units:	Maßeinheiten:
 	Merge	Verbinden
 	Merge cells before split	Zellen vor dem Teilen verbinden
@@ -1043,6 +1061,7 @@
 	Merge Record #	Seriendruck-Datensatz-Nr.
 	Merged PRs	Zusammengeführte PRs
 	Mesosphere	Mesosphäre
+	Minimum:	Minimum:
 	Mirror indents	Gespiegelte Einzüge
 	Mirror margins	Gegenüberliegende Seiten
 	Mirrored	Gespiegelt
@@ -1172,6 +1191,7 @@
 	Number	Nummer
 	Number alignment:	Nummernausrichtung:
 	Number format	Nummernformat
+	Number format:	Zahlenformat:
 	Number of columns:	Anzahl der Spalten:
 	Number of rows:	Anzahl der Zeilen:
 	Number of the page the field sits on	Nummer der Seite, auf der das Feld steht
@@ -1587,6 +1607,7 @@
 	Sequence name:	Folgenname:
 	Serbian (Cyrillic)	Serbisch (Kyrillisch)
 	Serbian (Latin)	Serbisch (Lateinisch)
+	Series	Datenreihe
 	Series name	Name der Datenreihe
 	Series {n}	Datenreihe {n}
 	Set As Default	Als Standard festlegen
@@ -1683,6 +1704,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	SmartArt-Entwurf
 	SmartArt Styles	SmartArt-Formatvorlagen
+	Smooth lines	Ausgeglichene Linien
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Flüssiges Scrollen und Zoomen sowie Menüs und Schaltflächen, die weich eingeblendet werden. „Aus“ zeigt jede Änderung sofort.
 	Soft Edges	Weiche Kanten
 	Soft Glow	Weiches Leuchten
@@ -1863,6 +1885,7 @@
 	this text box is already linked: break the link first	dieses Textfeld ist bereits verknüpft: heben Sie zuerst die Verknüpfung auf
 	Three	Drei
 	Through	Durchgehend
+	Tick labels	Skalenbeschriftungen
 	Tight	Eng
 	Tips ({n})	Tipps ({n})
 	Title Bar	Titelleiste
@@ -1981,6 +2004,7 @@
 	Wide	Breit
 	Widow/Orphan Control	Absatzkontrolle
 	Widow/Orphan control	Absatzkontrolle
+	Width (pt):	Breite (Pkt.):
 	Width and spacing	Breite und Abstand
 	With:	Durch:
 	Word 2003 XML Document (*.xml)	Word-2003-XML-Dokument (*.xml)
@@ -2038,3 +2062,6 @@
 	{width} × {height} pixels	{width} × {height} Pixel
 	{words} words	Wörter: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) ist keine Zahl.
+	“{text}” isn't a colour (RRGGBB).	„{text}“ ist keine Farbe (RRGGBB).
+	“{text}” isn't a number.	„{text}“ ist keine Zahl.
+	“{text}” isn't a width in points.	„{text}“ ist keine Breite in Punkt.

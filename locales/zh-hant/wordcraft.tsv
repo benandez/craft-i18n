@@ -43,6 +43,7 @@
 	Above Chart	圖表上方
 	Above the item	項目上方
 	Accent	重音符號
+	accent	主題色
 	Accent Gradient	強調色漸層
 	Accent with Reflection	強調色加反射
 	Accent {n}	輔色 {n}
@@ -161,6 +162,7 @@
 	Atmosphere	大氣
 	Attach Template	附加範本
 	Attach…	附加…
+	auto	自動
 	AutoCorrect	自動校正
 	AutoCorrect Options	自動校正選項
 	AutoFit	自動調整
@@ -189,6 +191,10 @@
 	AutoSave saves every change to the file (needs a saved document)	自動儲存會將每次變更寫入檔案（文件需已儲存）
 	AutoSave writes your changes to the file a moment after you stop typing.	停止輸入片刻後，自動儲存會將變更寫入檔案。
 	AutoText	自動圖文集
+	Axis	座標軸
+	Axis Labels	軸標籤
+	Axis line	座標軸線
+	Axis Titles	軸標題
 	Backspace	退格
 	Balloons	註解方塊
 	Banded Columns	帶狀欄
@@ -426,6 +432,7 @@
 	Current page	目前頁面
 	Current Position	目前位置
 	Current record	目前記錄
+	Current Selection	目前選取項目
 	Current style: {style}	目前樣式：{style}
 	Curved Arrow Connector	曲線箭頭接點
 	Curved Connector	曲線接點
@@ -452,6 +459,7 @@
 	Dark with Shadow	深色加陰影
 	Darkroom	暗房
 	Data Labels	資料標籤
+	Data labels	資料標籤
 	Date & Time	日期及時間
 	Date formats:	日期格式：
 	Date Picker Content Control	日期選擇器內容控制項
@@ -659,6 +667,7 @@
 	File name:	檔案名稱:
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	「檔案 › 新增」會在「個人」下列出此處的 .dotx 和 .dotm 範本；「另存為 Word 範本」從這裡開始。
 	Fill color:	填滿色彩：
+	Fill:	填滿:
 	Filling in forms	填寫表單
 	Film	電影
 	Filter and Sort	篩選與排序
@@ -698,9 +707,14 @@
 	Footnotes	註腳
 	Footnotes and endnotes	註腳和章節附註
 	Footnotes to endnotes	註腳轉換為章節附註
+	Format Axis	格式化座標軸
+	Format Axis…	格式化座標軸…
 	Format Page Numbers	頁碼格式
 	Format Page Numbers…	頁碼格式…
 	Format Painter	複製格式
+	Format Selection	選取項目格式
+	Format Series	格式化資料系列
+	Format Series…	格式化資料系列…
 	Format Shape	設定圖形格式
 	Format Shape Pane	設定圖形格式窗格
 	Format Shape…	設定圖形格式…
@@ -990,6 +1004,7 @@
 	Link level to style:	將層級連結到樣式：
 	Link to Previous	連結到前一節
 	Link to:	連結至:
+	linked	連結
 	Linked style (paragraph and character)	連結樣式（段落和字元）
 	Links and References	連結和參照
 	Link…	連結…
@@ -1011,6 +1026,7 @@
 	Mail Merge	合併列印
 	Mailings	郵件
 	Main entry:	主索引項：
+	Major gridlines	主要格線
 	Make WordCraft the default for Word documents…	將 WordCraft 設為 Word 文件的預設應用程式…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	放大或縮小功能區、功能表與對話方塊。「自動」依循系統的顯示縮放；100% 為每點一個螢幕像素。文件縮放另行設定。
 	Manage Sources	管理來源
@@ -1035,6 +1051,7 @@
 	Mark\nCitation	標記引文
 	Mark\nEntry	標記項目
 	Markdown (*.md)	Markdown (*.md)
+	Markers	標記
 	Match case	大小寫須相符
 	Match Fields	對應欄位
 	Match prefix	比對字首
@@ -1042,11 +1059,14 @@
 	Matches: {count}	相符項目：{count}
 	Math AutoCorrect	數學自動校正
 	Matrix	矩陣
+	Maximum	最大值
+	Maximum:	最大值:
 	Measurement units:	度量單位：
 	Merge cells before split	分割前合併儲存格
 	Merge Formatting	合併格式設定
 	Merge Record #	合併記錄編號
 	Mesosphere	中氣層
+	Minimum:	最小值:
 	Mirror indents	對稱縮排
 	Mirror margins	左右對稱邊界
 	Mirrored	左右對稱
@@ -1176,6 +1196,7 @@
 	Number	編號
 	Number alignment:	編號對齊方式：
 	Number format	編號格式
+	Number format:	數字格式:
 	Number of columns:	欄數：
 	Number of rows:	列數：
 	Number of the page the field sits on	目前的頁碼
@@ -1594,6 +1615,7 @@
 	Sequence name:	序列名稱：
 	Serbian (Cyrillic)	塞爾維亞文（斯拉夫文）
 	Serbian (Latin)	塞爾維亞文（拉丁文）
+	Series	系列
 	Series name	數列名稱
 	Series {n}	數列 {n}
 	Set As Default	設為預設值
@@ -1693,6 +1715,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	SmartArt 設計
 	SmartArt Styles	SmartArt 樣式
+	Smooth lines	平滑線
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	平滑捲動與縮放，以及功能表與按鈕的淡入效果。選擇「關」後，所有變更會立即顯示。
 	Soft	柔和
 	Soft Edges	柔化邊緣
@@ -1869,6 +1892,7 @@
 	this text box is already linked: break the link first	此文字方塊已連結: 請先中斷連結
 	Three	三欄
 	Through	穿透
+	Tick labels	刻度標籤
 	Tight	緊密
 	Tips ({n})	提示 ({n})
 	Title Bar	標題列
@@ -1987,6 +2011,7 @@
 	Wide	寬
 	Widow/Orphan Control	遺留字串控制
 	Widow/Orphan control	遺留字串控制
+	Width (pt):	寬度 (pt):
 	Width and spacing	寬度和間距
 	Width:	寬度：
 	With:	取代為:
@@ -2049,3 +2074,6 @@
 	{width} × {height} pixels	{width} × {height} 像素
 	{words} words	{words} 個字
 	“{text}” ({row}, {series}) isn't a number.	「{text}」（{row}，{series}）不是數字。
+	“{text}” isn't a colour (RRGGBB).	「{text}」不是顏色（RRGGBB）。
+	“{text}” isn't a number.	「{text}」不是數字。
+	“{text}” isn't a width in points.	「{text}」不是以磅為單位的寬度。

@@ -61,6 +61,7 @@
 	Above the item	Phía trên mục
 	Absolute value cases	Trường hợp giá trị tuyệt đối
 	Accent	Dấu
+	accent	màu nhấn
 	Accent Gradient	Chuyển sắc màu nhấn
 	Accent with Reflection	Màu nhấn có phản chiếu
 	Accent {n}	Màu nhấn {n}
@@ -188,6 +189,7 @@
 	Atmosphere	Khí quyển
 	Attach Template	Đính kèm mẫu
 	Attach…	Đính kèm…
+	auto	tự động
 	AutoCorrect	Tự động sửa
 	AutoCorrect Options	Tùy chọn tự động sửa
 	AutoFit	Tự khớp
@@ -216,6 +218,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Tự động lưu ghi lại mọi thay đổi vào tệp (cần tài liệu đã lưu)
 	AutoSave writes your changes to the file a moment after you stop typing.	Tự động lưu ghi thay đổi vào tệp một lát sau khi bạn ngừng gõ.
 	AutoText	Văn bản tự động
+	Axis	Trục
+	Axis Labels	Nhãn trục
+	Axis line	Đường trục
+	Axis Titles	Tiêu đề trục
 	B4 (JIS)   10.12" × 14.33"	Giấy B4 (JIS) 10.12" × 14.33"
 	B5 (JIS)   7.17" × 10.12"	Giấy B5 (JIS) 7.17" × 10.12"
 	Backspace	Xóa lùi
@@ -522,6 +528,7 @@
 	Current - Professional	Hiện tại - Dạng trình bày
 	Current Position	Vị trí hiện tại
 	Current record	Bản ghi hiện tại
+	Current Selection	Lựa chọn hiện tại
 	Current style: {style}	Kiểu đang dùng: {style}
 	Curved Arrow Connector	Đường nối cong có mũi tên
 	Curved Connector	Đường nối cong
@@ -548,6 +555,7 @@
 	Dark with Shadow	Tối có bóng đổ
 	Darkroom	Darkroom
 	Data Labels	Nhãn số liệu
+	Data labels	Nhãn dữ liệu
 	Date & Time	Ngày & giờ
 	Date formats:	Định dạng ngày:
 	Date Picker Content Control	Điều khiển nội dung chọn ngày
@@ -844,9 +852,14 @@
 	Footnotes and endnotes	Chú thích chân trang và chú thích cuối
 	Footnotes to endnotes	Chú thích chân trang thành chú thích cuối tài liệu
 	For which item:	Cho mục nào:
+	Format Axis	Định dạng trục
+	Format Axis…	Định dạng trục…
 	Format Page Numbers	Định dạng số trang
 	Format Page Numbers…	Định dạng số trang…
 	Format Painter	Sao chép định dạng
+	Format Selection	Định dạng vùng chọn
+	Format Series	Định dạng chuỗi
+	Format Series…	Định dạng chuỗi…
 	Format Shape	Định dạng hình
 	Format Shape Pane	Ngăn Định dạng hình
 	Format Shape…	Định dạng hình…
@@ -1226,6 +1239,7 @@ template	Letter	Thư
 	Link level to style:	Liên kết cấp độ với kiểu:
 	Link to Previous	Liên kết với phần trước
 	Link to:	Liên kết tới:
+	linked	đã liên kết
 	Linked style (paragraph and character)	Kiểu liên kết (đoạn và ký tự)
 	Links and References	Liên kết và tham chiếu
 	Link…	Liên kết…
@@ -1260,6 +1274,7 @@ template	Letter	Thư
 	Mail Merge	Trộn thư
 	Mailings	Gửi thư
 	Main entry:	Mục chính:
+	Major gridlines	Đường lưới chính
 	Make WordCraft the default for Word documents…	Đặt WordCraft làm ứng dụng mặc định cho tài liệu Word…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Làm ribbon, menu và hộp thoại lớn hơn hoặc nhỏ hơn. Tự động theo tỉ lệ hiển thị của hệ thống; 100% là một điểm ảnh màn hình cho mỗi point. Thu phóng tài liệu là mục riêng.
 	Manage Sources	Quản lý nguồn
@@ -1283,6 +1298,7 @@ template	Letter	Thư
 	Mark\nCitation	Đánh dấu\ntrích dẫn
 	Mark\nEntry	Đánh dấu\nmục
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Dấu mốc
 	Match case	Khớp chữ hoa/thường
 	Match Fields	Khớp trường
 	Match prefix	Khớp tiền tố
@@ -1293,6 +1309,7 @@ template	Letter	Thư
 	Matrix	Ma trận
 	Maximum	Cực đại
 	Maximum Example	Ví dụ cực đại
+	Maximum:	Giá trị lớn nhất:
 	Measured By	Được đo bằng
 	Measurement units:	Đơn vị đo:
 	Medium	Trung bình
@@ -1302,6 +1319,7 @@ template	Letter	Thư
 	Merge Record #	Bản ghi trộn #
 	Mesosphere	Tầng giữa
 	Midline Dots	Chấm giữa dòng
+	Minimum:	Giá trị nhỏ nhất:
 	Minus Equal	Trừ bằng
 	Mirror indents	Thụt lề đối xứng
 	Mirror margins	Lề đối xứng
@@ -1439,6 +1457,7 @@ template	Letter	Thư
 	Number	Đánh số
 	Number alignment:	Căn lề số:
 	Number format	Định dạng số
+	Number format:	Định dạng số:
 	Number of columns:	Số cột:
 	Number of rows:	Số hàng:
 	Number of the page the field sits on	Số thứ tự trang nơi trường này nằm
@@ -1896,6 +1915,7 @@ template	Letter	Thư
 	Sequence name:	Tên dãy:
 	Serbian (Cyrillic)	Tiếng Serbia (chữ Kirin)
 	Serbian (Latin)	Tiếng Serbia (chữ Latin)
+	Series	Chuỗi
 	Series name	Tên chuỗi
 	Series {n}	Chuỗi {n}
 	Set As Default	Đặt làm mặc định
@@ -2012,6 +2032,7 @@ template	Letter	Thư
 	SmartArt	SmartArt
 	SmartArt Design	Thiết kế SmartArt
 	SmartArt Styles	Kiểu SmartArt
+	Smooth lines	Đường làm trơn
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Cuộn và thu phóng mượt mà; menu và nút hiện dần. Khi tắt, mọi thay đổi hiện ra ngay lập tức.
 	Soft Edges	Cạnh mềm
 	Soft Glow	Phát sáng nhẹ
@@ -2227,6 +2248,7 @@ template	Letter	Thư
 	this text box is already linked: break the link first	hộp văn bản này đã được liên kết: hãy ngắt liên kết trước
 	Three	Ba
 	Through	Xuyên qua
+	Tick labels	Nhãn vạch chia
 	Tight	Khít
 	Tilde	Dấu ngã
 	Tips ({n})	Mẹo ({n})
@@ -2385,6 +2407,7 @@ template	Letter	Thư
 	Wide	Rộng
 	Widow/Orphan Control	Tránh dòng đơn lẻ ở đầu/cuối trang
 	Widow/Orphan control	Tránh dòng đơn lẻ ở đầu/cuối trang
+	Width (pt):	Độ rộng (pt):
 	Width and spacing	Chiều rộng và khoảng cách
 	Wildcards (regex)	Ký tự đại diện (regex)
 	With:	Bằng:
@@ -2446,6 +2469,9 @@ template	Letter	Thư
 	{width} × {height} pixels	{width} × {height} điểm ảnh
 	{words} words	Từ: {words}
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) không phải là số.
+	“{text}” isn't a colour (RRGGBB).	“{text}” không phải là màu (RRGGBB).
+	“{text}” isn't a number.	“{text}” không phải là số.
+	“{text}” isn't a width in points.	“{text}” không phải là chiều rộng tính bằng pt.
 	✓ None	✓ Không có
 	➕ New comment	➕ Nhận xét mới
 	📂  Browse…	📂  Duyệt…

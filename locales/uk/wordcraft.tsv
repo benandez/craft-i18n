@@ -43,6 +43,7 @@
 	Above Chart	Над діаграмою
 	Above the item	Над елементом
 	Accent	Діакритичний знак
+	accent	акцент
 	Accent Gradient	Акцентний градієнт
 	Accent with Reflection	Акцент із відбиттям
 	Accent {n}	Акцент {n}
@@ -159,6 +160,7 @@
 	Attach Template	Приєднати шаблон
 	Attach…	Приєднати…
 	Auto	Авто
+	auto	авто
 	Auto ({percent}%)	Авто ({percent}%)
 	AutoCorrect	Автовиправлення
 	AutoCorrect Options	Параметри автовиправлення
@@ -188,6 +190,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Автозбереження записує кожну зміну у файл (документ потрібно спочатку зберегти)
 	AutoSave writes your changes to the file a moment after you stop typing.	Автозбереження записує зміни у файл невдовзі після того, як ви припините вводити текст.
 	AutoText	Автоматичний текст
+	Axis	Вісь
+	Axis Labels	Підписи осей
+	Axis line	Линія осі
+	Axis Titles	Заголовки осей
 	Backspace	Видалити попередній символ
 	Balloons	Виноски
 	Banded Columns	Смугасті стовпці
@@ -423,6 +429,7 @@
 	Cross-reference:	Перехресне посилання:
 	Current Position	Поточне положення
 	Current record	Поточний запис
+	Current Selection	Поточне виділення
 	Current style: {style}	Поточний стиль: {style}
 	Curved Arrow Connector	Вигнутий з'єднувач зі стрілкою
 	Curved Connector	Вигнутий з'єднувач
@@ -452,6 +459,7 @@
 	Dark with Shadow	Темний із тінню
 	Darkroom	Фотолабораторія
 	Data Labels	Підписи даних
+	Data labels	Підписи даних
 	Date & Time	Дата й час
 	Date formats:	Формати дати:
 	Date Picker Content Control	Елемент керування вмістом «Вибір дати»
@@ -664,6 +672,7 @@
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Файл › Новий показує звідси шаблони .dotx і .dotm у групі «Особисті»; «Зберегти як шаблон Word» починає тут.
 	Fill	Колір заливки
 	Fill color:	Колір заливки:
+	Fill:	Заповнення:
 	Filling in forms	Заповнення форм
 	Film	Фільм
 	Filter and Sort	Фільтр і сортування
@@ -705,9 +714,14 @@
 	Footnotes	Виноски
 	Footnotes and endnotes	Виноски та кінцеві виноски
 	Footnotes to endnotes	Виноски на кінцеві виноски
+	Format Axis	Формат осі
+	Format Axis…	Формат осі…
 	Format Page Numbers	Формат номерів сторінок
 	Format Page Numbers…	Формат номерів сторінок…
 	Format Painter	Пензель форматування
+	Format Selection	Формат виділення
+	Format Series	Формат серії
+	Format Series…	Формат серії…
 	Format Shape	Формат фігури
 	Format Shape Pane	Область «Формат фігури»
 	Format Shape…	Формат фігури…
@@ -1002,6 +1016,7 @@
 	Link level to style:	Зв'язати рівень зі стилем:
 	Link to Previous	Як у попередньому
 	Link to:	Зв'язати з:
+	linked	пов'язано
 	Linked style (paragraph and character)	Зв’язаний стиль (абзац і символи)
 	Links	Посилання
 	Links and References	Зв'язки й посилання
@@ -1025,6 +1040,7 @@
 	Mail Merge	Злиття
 	Mailings	Розсилки
 	Main entry:	Основний елемент:
+	Major gridlines	Основні лінії сітки
 	Make WordCraft the default for Word documents…	Зробити WordCraft типовою програмою для документів Word…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Збільшує або зменшує стрічку, меню й діалогові вікна. «Авто» відповідає системному масштабуванню екрана; 100% — один піксель екрана на точку. Масштаб документа налаштовується окремо.
 	Manage Sources	Керувати джерелами
@@ -1048,6 +1064,7 @@
 	Mark\nCitation	Позначити\nцитату
 	Mark\nEntry	Позначити\nелемент
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Маркери
 	Match case	Враховувати регістр
 	Match Fields	Зіставити поля
 	Match prefix	Збіг префікса
@@ -1055,6 +1072,7 @@
 	Matches: {count}	Збігів: {count}
 	Math AutoCorrect	Математичне автовиправлення
 	Matrix	Матриця
+	Maximum:	Максимум:
 	Measurement units:	Одиниці виміру:
 	Medium	Середня
 	Merge	Об'єднати
@@ -1063,6 +1081,7 @@
 	Merge Record #	Номер запису злиття
 	Merged PRs	Об'єднані PR
 	Mesosphere	Мезосфера
+	Minimum:	Мінімум:
 	Mirror indents	Дзеркальні відступи
 	Mirror margins	Дзеркальні поля
 	Mirrored	Дзеркальні
@@ -1193,6 +1212,7 @@
 	Number	Номер
 	Number alignment:	Вирівнювання номера:
 	Number format	Формат номера
+	Number format:	Формат чисел:
 	Number of columns:	Кількість стовпців:
 	Number of rows:	Кількість рядків:
 	Number of the page the field sits on	Номер поточної сторінки
@@ -1610,6 +1630,7 @@
 	Sequence name:	Назва послідовності:
 	Serbian (Cyrillic)	Сербська (кирилиця)
 	Serbian (Latin)	Сербська (латиниця)
+	Series	Серія
 	Series name	Назва ряду
 	Series {n}	Ряд {n}
 	Set As Default	Зробити типовою
@@ -1707,6 +1728,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	Конструктор SmartArt
 	SmartArt Styles	Стилі SmartArt
+	Smooth lines	Згладжені лінії
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Плавне прокручування й масштабування, а також поступова поява меню та кнопок. Якщо вибрано «Вимкнено», усі зміни відображаються одразу.
 	Soft	М'який
 	Soft Edges	М'які краї
@@ -1883,6 +1905,7 @@
 	this text box is already linked: break the link first	це текстове поле вже зв’язане: спочатку розірвіть зв’язок
 	Three	Три
 	Through	Наскрізне
+	Tick labels	Підписи поділок
 	Tight	Щільний
 	Tips ({n})	Поради ({n})
 	Title	Назва
@@ -2005,6 +2028,7 @@
 	Wide	Широкі
 	Widow/Orphan Control	Не залишати самотні рядки
 	Widow/Orphan control	Не залишати самотні рядки
+	Width (pt):	Ширина (пт):
 	Width and spacing	Ширина й інтервал
 	With:	На:
 	Word 2003 XML Document (*.xml)	Документ Word 2003 XML (*.xml)
@@ -2064,3 +2088,6 @@
 	{width} × {height} pixels	{width} × {height} пікс.
 	{words} words	Слів: {words}
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
+	“{text}” isn't a colour (RRGGBB).	«{text}» — не колір (RRGGBB).
+	“{text}” isn't a number.	«{text}» — не число.
+	“{text}” isn't a width in points.	«{text}» — не ширина в пунктах.

@@ -61,6 +61,7 @@
 	Above the item	Encima del elemento
 	Absolute value cases	Casos del valor absoluto
 	Accent	Acento
+	accent	acento
 	Accent Gradient	Degradado de énfasis
 	Accent with Reflection	Énfasis con reflejo
 	Accent {n}	Énfasis {n}
@@ -184,6 +185,7 @@
 	Atmosphere	Atmósfera
 	Attach Template	Adjuntar plantilla
 	Attach…	Adjuntar…
+	auto	automático
 	AutoCorrect	Autocorrección
 	AutoCorrect Options	Opciones de autocorrección
 	AutoFit	Ajustar automáticamente
@@ -212,6 +214,10 @@
 	AutoSave saves every change to the file (needs a saved document)	El autoguardado guarda cada cambio en el archivo (requiere un documento guardado)
 	AutoSave writes your changes to the file a moment after you stop typing.	El autoguardado escribe tus cambios en el archivo poco después de que dejes de escribir.
 	AutoText	Texto automático
+	Axis	Eje
+	Axis Labels	Etiquetas del eje
+	Axis line	Línea del eje
+	Axis Titles	Títulos del eje
 	Balloons	Globos
 	Banded Columns	Columnas con bandas
 	Banded Rows	Filas con bandas
@@ -496,6 +502,7 @@
 	Current - Professional	Actual - Profesional
 	Current Position	Posición actual
 	Current record	Registro actual
+	Current Selection	Selección actual
 	Current style: {style}	Estilo actual: {style}
 	Curved Arrow Connector	Conector curvo de flecha
 	Curved Connector	Conector curvo
@@ -522,6 +529,7 @@
 	Dark with Shadow	Oscuro con sombra
 	Darkroom	Cuarto oscuro
 	Data Labels	Etiquetas de datos
+	Data labels	Etiquetas de datos
 	Date & Time	Fecha y hora
 	Date formats:	Formatos de fecha:
 	Date Picker Content Control	Control de contenido de selector de fecha
@@ -803,9 +811,14 @@
 	Footnotes	Notas al pie
 	Footnotes and endnotes	Notas al pie y notas al final
 	Footnotes to endnotes	Notas al pie a notas finales
+	Format Axis	Formato del eje
+	Format Axis…	Formato del eje…
 	Format Page Numbers	Formato de números de página
 	Format Page Numbers…	Formato de números de página…
 	Format Painter	Pincel de formato
+	Format Selection	Formato de la selección
+	Format Series	Formato de la serie
+	Format Series…	Formato de la serie…
 	Format Shape	Formato de forma
 	Format Shape Pane	Panel Formato de forma
 	Format Shape…	Formato de forma…
@@ -1144,6 +1157,7 @@
 	Link level to style:	Vincular nivel con estilo:
 	Link to Previous	Vincular con el anterior
 	Link to:	Vincular a:
+	linked	vinculado
 	Linked style (paragraph and character)	Estilo vinculado (párrafo y carácter)
 	Links and References	Vínculos y referencias
 	Link…	Vínculo…
@@ -1172,6 +1186,7 @@
 	Mail Merge	Combinar correspondencia
 	Mailings	Correspondencia
 	Main entry:	Entrada principal:
+	Major gridlines	Líneas de la cuadrícula principales
 	Make WordCraft the default for Word documents…	Hacer de WordCraft la aplicación predeterminada para documentos de Word…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Agranda o reduce la cinta, los menús y los cuadros de diálogo. Auto sigue el escalado de pantalla del sistema; 100% es un píxel de pantalla por punto. El zoom del documento es aparte.
 	Manage Sources	Administrar fuentes
@@ -1195,6 +1210,7 @@
 	Mark\nCitation	Marcar\ncita
 	Mark\nEntry	Marcar\nentrada
 	Markdown (*.md)	Markdown (*.md)
+	Markers	Marcadores
 	Match case	Coincidir mayúsculas y minúsculas
 	Match Fields	Campos coincidentes
 	Match prefix	Coincidir prefijo
@@ -1204,6 +1220,7 @@
 	Matrices with Brackets	Matrices con corchetes
 	Matrix	Matriz
 	Maximum Example	Ejemplo de máximo
+	Maximum:	Máximo:
 	Measured By	Medido por
 	Measurement units:	Unidades de medida:
 	Merge cells before split	Combinar celdas antes de dividir
@@ -1212,6 +1229,7 @@
 	Mesosphere	Mesosfera
 	Middle	En medio
 	Midline Dots	Puntos suspensivos centrales
+	Minimum:	Mínimo:
 	Minus Equal	Menos igual
 	Mirror indents	Sangrías simétricas
 	Mirror margins	Márgenes simétricos
@@ -1344,6 +1362,7 @@
 	Num Occurrences	Número de repeticiones
 	Number alignment:	Alineación del número:
 	Number format	Formato de número
+	Number format:	Formato de número:
 	Number of columns:	Número de columnas:
 	Number of rows:	Número de filas:
 	Number of the page the field sits on	El número de la página actual
@@ -1786,6 +1805,7 @@
 	Sequence name:	Nombre de la secuencia:
 	Serbian (Cyrillic)	Serbio (cirílico)
 	Serbian (Latin)	Serbio (latino)
+	Series	Serie
 	Series name	Nombre de la serie
 	Series {n}	Serie {n}
 	Set As Default	Establecer como predeterminado
@@ -1896,6 +1916,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	Diseño de SmartArt
 	SmartArt Styles	Estilos de SmartArt
+	Smooth lines	Líneas suavizadas
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Desplazamiento y zoom suaves, y menús y botones que aparecen gradualmente. Con «Desactivado», cada cambio se muestra al instante.
 	Soft Edges	Bordes suaves
 	Soft Glow	Resplandor suave
@@ -2101,6 +2122,7 @@
 	this text box is already linked: break the link first	este cuadro de texto ya está vinculado: quite primero el vínculo
 	Three	Tres
 	Through	Transparente
+	Tick labels	Etiquetas de gradación
 	Tight	Ajustado
 	Tilde	Tilde
 	Tips ({n})	Sugerencias ({n})
@@ -2249,6 +2271,7 @@ preview	Title	Título
 	Wide	Ancho
 	Widow/Orphan Control	Control de líneas viudas y huérfanas
 	Widow/Orphan control	Control de líneas viudas y huérfanas
+	Width (pt):	Anchura (pt):
 	Width and spacing	Ancho y espaciado
 	With:	Con:
 	Word 2003 XML Document (*.xml)	Documento XML de Word 2003 (*.xml)
@@ -2309,4 +2332,7 @@ preview	Title	Título
 	{width} × {height} pixels	{width} × {height} píxeles
 	{words} words	{words} palabras
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) no es un número.
+	“{text}” isn't a colour (RRGGBB).	«{text}» no es un color (RRGGBB).
+	“{text}” isn't a number.	«{text}» no es un número.
+	“{text}” isn't a width in points.	«{text}» no es una anchura en puntos.
 	✓ None	✓ Ninguno

@@ -61,6 +61,7 @@
 	Above the item	Öğenin üstünde
 	Absolute value cases	Mutlak Değer Durumları
 	Accent	Vurgu İşareti
+	accent	vurgu
 	Accent Gradient	Vurgu Geçişi
 	Accent with Reflection	Yansımalı Vurgu
 	Accent {n}	Vurgu {n}
@@ -185,6 +186,7 @@
 	Atmosphere	Atmosfer
 	Attach Template	Şablonu Ekle
 	Attach…	Ekle…
+	auto	otomatik
 	AutoCorrect	Otomatik Düzelt
 	AutoCorrect Options	Otomatik Düzeltme Seçenekleri
 	AutoFit	Otomatik Sığdır
@@ -213,6 +215,10 @@
 	AutoSave saves every change to the file (needs a saved document)	Otomatik Kaydet, her değişikliği dosyaya kaydeder (belgenin önce kaydedilmesi gerekir)
 	AutoSave writes your changes to the file a moment after you stop typing.	Otomatik kaydetme, yazmayı bıraktıktan kısa süre sonra değişikliklerinizi dosyaya yazar.
 	AutoText	Otomatik Metin
+	Axis	Eksen
+	Axis Labels	Eksen etiketleri
+	Axis line	Eksen çizgisi
+	Axis Titles	Eksen başlıkları
 	Balloons	Balonlar
 	Banded Columns	Şeritli Sütunlar
 	Banded Rows	Şeritli Satırlar
@@ -500,6 +506,7 @@
 	Current - Professional	Geçerli - Profesyonel
 	Current Position	Geçerli Konum
 	Current record	Geçerli kayıt
+	Current Selection	Geçerli seçim
 	Current style: {style}	Geçerli stil: {style}
 	Curved Arrow Connector	Eğri Oklu Bağlayıcı
 	Curved Connector	Eğri Bağlayıcı
@@ -526,6 +533,7 @@
 	Dark with Shadow	Gölgeli Koyu
 	Darkroom	Karanlık Oda
 	Data Labels	Veri Etiketleri
+	Data labels	Veri etiketleri
 	Date & Time	Tarih ve Saat
 	Date formats:	Tarih biçimleri:
 	Date Picker Content Control	Tarih Seçici İçerik Denetimi
@@ -764,6 +772,7 @@
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Dosya › Yeni, buradaki .dotx ve .dotm şablonlarını Kişisel altında listeler; Word şablonu olarak kaydet buradan başlar.
 	Fill	Dolgu
 	Fill color:	Dolgu rengi:
+	Fill:	Dolgu:
 	Filling in forms	Form doldurma
 	Film	Film
 	Filter and Sort	Filtrele ve sırala
@@ -806,9 +815,14 @@
 	Footnotes and endnotes	Dipnotlar ve sonnotlar
 	Footnotes to endnotes	Dipnotlardan son notlara
 	For which item:	Hangi öğe için:
+	Format Axis	Ekseni biçimlendir
+	Format Axis…	Ekseni biçimlendir…
 	Format Page Numbers	Sayfa Numaralarını Biçimlendir
 	Format Page Numbers…	Sayfa Numaralarını Biçimlendir…
 	Format Painter	Biçim Fırçası
+	Format Selection	Seçimi biçimlendir
+	Format Series	Seriyi biçimlendir
+	Format Series…	Seriyi biçimlendir…
 	Format Shape	Şekli Biçimlendir
 	Format Shape Pane	Şekli Biçimlendir bölmesi
 	Format Shape…	Şekli Biçimlendir…
@@ -1159,6 +1173,7 @@
 	Link level to style:	Düzeyi stile bağla:
 	Link to Previous	Öncekine Bağla
 	Link to:	Bağlantı:
+	linked	bağlı
 	Linked style (paragraph and character)	Bağlantılı stil (paragraf ve karakter)
 	Links and References	Bağlantılar ve Başvurular
 	Link…	Bağlantı…
@@ -1191,6 +1206,7 @@
 	Mail Merge	Posta Birleştirme
 	Mailings	Postalar
 	Main entry:	Ana girdi:
+	Major gridlines	Ana kılavuz çizgileri
 	Make WordCraft the default for Word documents…	WordCraft'ı Word belgeleri için varsayılan yap…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Şeridi, menüleri ve iletişim kutularını büyütür veya küçültür. Otomatik, sisteminizin ekran ölçeklendirmesini izler; %100, nokta başına bir ekran pikselidir. Belge yakınlaştırması ayrıdır.
 	Manage Sources	Kaynakları Yönet
@@ -1214,6 +1230,7 @@
 	Mark\nCitation	Atıfı\nİşaretle
 	Mark\nEntry	Girdiyi\nİşaretle
 	Markdown (*.md)	Markdown (*.md)
+	Markers	İşaretler
 	Match case	Büyük/küçük harfe duyarlı
 	Match Fields	Alanları Eşleştir
 	Match prefix	Ön eke uy
@@ -1223,6 +1240,7 @@
 	Matrices with Brackets	Parantezli Matrisler
 	Matrix	Matris
 	Maximum Example	Maksimum Örneği
+	Maximum:	En büyük:
 	Measured By	Ölçüm Birimi
 	Measurement units:	Ölçü birimleri:
 	Merge cells before split	Bölmeden önce hücreleri birleştir
@@ -1231,6 +1249,7 @@
 	Mesosphere	Mezosfer
 	Midline Dots	Orta Çizgide Üç Nokta
 	Minimum	Minimum
+	Minimum:	En küçük:
 	Minus Equal	Eksi Eşittir
 	Mirror indents	Ayna girintiler
 	Mirror margins	Yansıtılmış kenar boşlukları
@@ -1363,6 +1382,7 @@
 	Number	Numara
 	Number alignment:	Numara hizalaması:
 	Number format	Numara biçimi
+	Number format:	Sayı biçimi:
 	Number of columns:	Sütun sayısı:
 	Number of rows:	Satır sayısı:
 	Number of the page the field sits on	Alanın bulunduğu sayfanın numarası
@@ -1814,6 +1834,7 @@
 	Sequence name:	Dizi adı:
 	Serbian (Cyrillic)	Sırpça (Kiril)
 	Serbian (Latin)	Sırpça (Latin)
+	Series	Seri
 	Series name	Seri adı
 	Series {n}	Seri {n}
 	Set As Default	Varsayılan Olarak Ayarla
@@ -1925,6 +1946,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	SmartArt Tasarımı
 	SmartArt Styles	SmartArt Stilleri
+	Smooth lines	Düz çizgiler
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Yumuşak kaydırma ve yakınlaştırma ile menülerin ve düğmelerin yavaşça belirmesi. Kapalı seçildiğinde her değişiklik anında gösterilir.
 	Soft Edges	Yumuşak Kenarlar
 	Soft Glow	Yumuşak Parıltı
@@ -2130,6 +2152,7 @@
 	this text box is already linked: break the link first	bu metin kutusu zaten bağlı: önce bağlantıyı kesin
 	Three	Üç
 	Through	Geçişli
+	Tick labels	Aralık etiketleri
 	Tight	Sıkı
 	Tilde	Tilde
 	Tips ({n})	İpuçları ({n})
@@ -2280,6 +2303,7 @@ preview	Title	Örnek
 	Wide	Geniş
 	Widow/Orphan Control	Tek Kalan Satır Denetimi
 	Widow/Orphan control	Tek kalan satır denetimi
+	Width (pt):	Genişlik (pt):
 	Width and spacing	Genişlik ve aralık
 	With:	Yeni:
 	Word 2003 XML Document (*.xml)	Word 2003 XML Belgesi (*.xml)
@@ -2340,4 +2364,7 @@ preview	Title	Örnek
 	{width} × {height} pixels	{width} × {height} piksel
 	{words} words	{words} sözcük
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) bir sayı değil.
+	“{text}” isn't a colour (RRGGBB).	“{text}” bir renk değil (RRGGBB).
+	“{text}” isn't a number.	“{text}” bir sayı değil.
+	“{text}” isn't a width in points.	“{text}” punto cinsinden bir genişlik değil.
 	✓ None	✓ Yok

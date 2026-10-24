@@ -46,6 +46,7 @@
 	Above Chart	グラフの上
 	Above the item	項目の上
 	Accent	アクセント
+	accent	アクセント
 	Accent Gradient	アクセントのグラデーション
 	Accent with Reflection	アクセントと反射
 	Accent {n}	アクセント {n}
@@ -164,6 +165,7 @@
 	Atmosphere	大気
 	Attach Template	テンプレートの添付
 	Attach…	添付…
+	auto	自動
 	AutoCorrect	オートコレクト
 	AutoCorrect Options	オートコレクトのオプション
 	AutoFit	自動調整
@@ -192,6 +194,10 @@
 	AutoSave saves every change to the file (needs a saved document)	自動保存は変更のたびにファイルへ保存します（保存済みの文書が必要です）
 	AutoSave writes your changes to the file a moment after you stop typing.	自動保存は、入力を止めて少したつと変更をファイルに書き込みます。
 	AutoText	定型句
+	Axis	軸
+	Axis Labels	軸ラベル
+	Axis line	軸線
+	Axis Titles	軸タイトル
 	Balloons	吹き出し
 	Banded Columns	縞模様（列）
 	Banded Rows	縞模様（行）
@@ -437,6 +443,7 @@
 	Cross-reference:	相互参照:
 	Current Position	現在の位置
 	Current record	現在のレコード
+	Current Selection	現在の選択
 	Current style: {style}	現在のスタイル: {style}
 	Curved Arrow Connector	曲線矢印コネクタ
 	Curved Connector	曲線コネクタ
@@ -464,6 +471,7 @@
 	Dark with Shadow	暗い色と影
 	Darkroom	暗室
 	Data Labels	データ ラベル
+	Data labels	データラベル
 	Date & Time	日付と時刻
 	Date formats:	日付の形式:
 	Date Picker Content Control	日付選択コンテンツ コントロール
@@ -678,6 +686,7 @@
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	[ファイル] › [新規] の [個人用] に、ここにある .dotx と .dotm のテンプレートが表示されます。[Word テンプレートとして保存] はここから始まります。
 	Fill	塗りつぶし
 	Fill color:	塗りつぶしの色:
+	Fill:	塗りつぶし:
 	Filling in forms	フォームへの入力
 	Film	映画
 	Filter and Sort	フィルターと並べ替え
@@ -718,9 +727,14 @@
 	Footnotes and endnotes	脚注と文末脚注
 	Footnotes to endnotes	脚注を文末脚注に変換
 	Format	書式
+	Format Axis	軸の書式
+	Format Axis…	軸の書式…
 	Format Page Numbers	ページ番号の書式設定
 	Format Page Numbers…	ページ番号の書式設定…
 	Format Painter	書式のコピー/貼り付け
+	Format Selection	選択の書式
+	Format Series	系列の書式
+	Format Series…	系列の書式…
 	Format Shape	図形の書式設定
 	Format Shape Pane	図形の書式設定ウィンドウ
 	Format Shape…	図形の書式設定…
@@ -1015,6 +1029,7 @@
 	Link level to style:	レベルに対応付けるスタイル:
 	Link to Previous	前と同じヘッダー/フッター
 	Link to:	リンク先:
+	linked	リンク
 	Linked style (paragraph and character)	リンク スタイル (段落と文字)
 	Links and References	リンクと参照
 	Link…	リンク…
@@ -1037,6 +1052,7 @@
 	Mail Merge	差し込み印刷
 	Mailings	差し込み文書
 	Main entry:	主項目:
+	Major gridlines	主グリッド線
 	Make WordCraft the default for Word documents…	WordCraft を Word 文書の既定のアプリにする…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	リボン、メニュー、ダイアログを拡大または縮小します。自動はシステムの表示倍率に従います。100% は 1 ポイントあたり画面の 1 ピクセルです。文書のズームは別に設定します。
 	Manage Sources	資料文献の管理
@@ -1060,6 +1076,7 @@
 	Mark\nCitation	引用文のマーク
 	Mark\nEntry	索引登録
 	Markdown (*.md)	Markdown (*.md)
+	Markers	マーカー
 	Match case	大文字と小文字を区別する
 	Match Fields	フィールドの対応
 	Match prefix	語頭が一致する
@@ -1068,11 +1085,13 @@
 	Math AutoCorrect	数式オートコレクト
 	Matrix	行列
 	Maximum	Maximum
+	Maximum:	最大値:
 	Measurement units:	単位:
 	Merge cells before split	分割する前にセルを結合する
 	Merge Formatting	書式を結合
 	Merge Record #	差し込みレコード番号
 	Mesosphere	中間圏
+	Minimum:	最小値:
 	Mirror indents	左右対称のインデント
 	Mirror margins	見開きページ
 	Mirrored	見開きページ
@@ -1205,6 +1224,7 @@
 	Number	番号
 	Number alignment:	番号の配置:
 	Number format	番号書式
+	Number format:	番号書式:
 	Number of columns:	列数:
 	Number of rows:	行数:
 	Number of the page the field sits on	現在のページ番号
@@ -1628,6 +1648,7 @@
 	Sequence name:	連番の名前:
 	Serbian (Cyrillic)	セルビア語（キリル文字）
 	Serbian (Latin)	セルビア語（ラテン文字）
+	Series	系列
 	Series name	系列名
 	Series {n}	系列 {n}
 	Set As Default	既定に設定
@@ -1727,6 +1748,7 @@
 	SmartArt	SmartArt
 	SmartArt Design	SmartArt のデザイン
 	SmartArt Styles	SmartArt のスタイル
+	Smooth lines	滑らかな線
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	スクロールやズームのなめらかな動きと、メニューやボタンのフェード表示です。「オフ」にすると、すべての変化がすぐに表示されます。
 	Soft Edges	輪郭のぼかし
 	Soft Glow	柔らかい光彩
@@ -1907,6 +1929,7 @@
 	this text box is already linked: break the link first	このテキスト ボックスは既にリンクされています: 先にリンクを解除してください
 	Three	3 段
 	Through	内部
+	Tick labels	目盛りラベル
 	Tight	狭い
 	Tips ({n})	ヒント ({n})
 	Title Bar	タイトル バー
@@ -2029,6 +2052,7 @@
 	Wide	広い
 	Widow/Orphan Control	改ページ時 1 行残して段落を区切らない
 	Widow/Orphan control	改ページ時 1 行残して段落を区切らない
+	Width (pt):	幅 (pt):
 	Width and spacing	幅と間隔
 	With:	修正後の文字列:
 	Word 2003 XML Document (*.xml)	Word 2003 XML ドキュメント (*.xml)
@@ -2089,3 +2113,6 @@
 	{width} × {height} pixels	{width} × {height} ピクセル
 	{words} words	{words} 語
 	“{text}” ({row}, {series}) isn't a number.	「{text}」（{row}、{series}）は数値ではありません。
+	“{text}” isn't a colour (RRGGBB).	「{text}」は色（RRGGBB）ではありません。
+	“{text}” isn't a number.	「{text}」は数値ではありません。
+	“{text}” isn't a width in points.	「{text}」はポイントでの幅ではありません。
