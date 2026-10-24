@@ -185,6 +185,7 @@
 	Arch Down	Boog omlaag
 	Arch Up	Boog omhoog
 	Area	Gebied
+	Arrange All	Alles schikken
 	Arrange\nAll	Alles\nschikken
 	Arrows	Pijlen
 	Article I.	Artikel I.
@@ -1373,6 +1374,7 @@
 	No limit	Geen limiet
 	No Markup	Geen markeringen
 	No model credits were built into this copy.	Er zijn geen modelvermeldingen opgenomen in deze build.
+	No other WordCraft windows are open.	Er zijn geen andere WordCraft-vensters geopend.
 	No Outline	Geen omtrek
 	No Paragraph Space	Geen alineaafstand
 	No printers found. Configure a system printer or export a PDF.	Geen printers gevonden. Configureer een systeemprinter of exporteer een PDF.
@@ -2090,7 +2092,10 @@
 	Swap footnotes and endnotes	Voetnoten en eindnoten wisselen
 	Swedish	Zweeds
 	Switch Modes	Modi wisselen
+	Switch Windows	Venster wisselen
 	Switch\nModes	Modi\nwisselen
+	Switch\nWindows	Venster\nwisselen
+	Synchronous Scrolling	Synchroon schuiven
 	Synonyms	Synoniemen
 	Tab Character	Tabteken
 	Tab character	Tabteken
@@ -2332,6 +2337,7 @@ preview	Title	Titel
 	View	Weergave
 	View Alt Text…	Alternatieve tekst weergeven…
 	View Gridlines	Rasterlijnen weergeven
+	View Side by Side	Naast elkaar weergeven
 	View State	Weergavestatus
 	Views	Weergaven
 	Visual effects	Visuele effecten
