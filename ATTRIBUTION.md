@@ -44,3 +44,14 @@ catalog came from (`<app>@<sha>`). Translations are contributed under the reposi
 Rows added from open WordCraft pull requests (the PR branch commit the rows were read from):
 
 - storytold/Wordcraft#331 (`38253611d`, View > Window: Switch Windows, Arrange All, Side by Side, Synchronous Scrolling): written by vangel76 with Claude, AI-generated, not reviewed by a native speaker.
+
+## WordCraft egui 0.37 migration additions
+
+@skylartaylor contributed the `Delete Around Caret in Equation` row in `bg`, `cs`, `da`,
+`de`, `es`, `et`, `fr`, `hr`, `hu`, `it`, `ja`, `ka`, `ko`, `nl`, `pl`, `pt-br`, `ro`,
+`ru`, `sl`, `sr`, `sr-latn`, `sv`, `tr`, `uk`, `vi`, `zh-hans` and `zh-hant`. The original 26 rows were prepared in the unpublished WordCraft migration and moved
+here after the app adopted shared catalogs. The same command label was then added
+to the Georgian catalog. The revised wording names the caret within the
+equation, where the command deletes adjacent editing units. They were written from
+the English meaning; no native-speaker review is recorded. They are separate from the earlier catalog
+migrations and translator credits above.
