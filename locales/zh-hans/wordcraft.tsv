@@ -502,6 +502,7 @@
 	Direct formatting	直接格式
 	Directory	目录
 	Discord community	Discord 社区
+	Dismiss	忽略
 	Display for Review	显示以供审阅
 	Display text	显示文本
 	Distance from text	距正文
@@ -1206,6 +1207,7 @@
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	旧菜单键: Alt, {keys}。继续输入，或按 Esc 取消。
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	开启：输入或使用方向键时，光标平滑移动到新位置，闪烁时淡入淡出。关闭：光标直接跳转，闪烁时直接显示和隐藏。
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	开：WordCraft 打开时显示“文件 › 开始”，其中有空白文档、模板和最近使用的文档。关：直接打开空白文档。
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	每天向 GitHub 查询一次是否有更新的 WordCraft 版本，并显示通知。不会发送其他任何信息。
 	One	一栏
 	One label per recipient	每位收件人一个标签
 	One line per item. Enter adds an item.	每个项目一行。按 Enter 添加项目。
@@ -1220,6 +1222,7 @@
 	Only web (http, https) and email (mailto) links can be followed	只能打开网页（http、https）和电子邮件（mailto）链接
 	Open a document first	请先打开文档
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	当系统文件对话框没有出现时，使用 WordCraft 自带的浏览器打开文件。
+	Open the release page in your browser	在浏览器中打开发布页面
 	OpenDocument Text (*.odt)	OpenDocument 文本 (*.odt)
 	Opening print dialog…	正在打开打印对话框…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	今后用 WordCraft 打开 .docx、.doc、.rtf、.odt 文件和 Word 模板。
@@ -1686,6 +1689,7 @@
 	Skip Citations and Bibliography	跳过引文和参考文献
 	Skip Record If	跳过记录条件
 	Skip Record If…	跳过记录条件…
+	Skip this version	跳过此版本
 	Slant Down	下斜
 	Slant Up	上斜
 	Small Caps	小型大写字母
@@ -2011,6 +2015,7 @@
 	WordArt Styles	艺术字样式
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft 现在是 Word 文档的默认应用。
+	WordCraft {version} is available.	WordCraft {version} 已发布。
 	Words	字数
 	Words only	仅字词
 	Wrap Text	环绕文字

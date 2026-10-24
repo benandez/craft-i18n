@@ -307,6 +307,7 @@
 	Check Box Content Control	Елемент керування вмістом «Прапорець»
 	Check Compatibility	Перевірити сумісність
 	Check for Errors	Перевірити наявність помилок
+	Check for updates	Перевіряти оновлення
 	Check Spelling as You Type	Перевіряти правопис під час введення
 	Check spelling as you type	Перевіряти правопис під час введення
 	Check\nAccessibility	Перевірити\nдоступність
@@ -502,6 +503,7 @@
 	Direct formatting	Пряме форматування
 	Directory	Каталог
 	Discord community	Спільнота Discord
+	Dismiss	Закрити
 	Display for Review	Відображення для рецензування
 	Display name	Відображуване ім'я
 	Display text	Текст для показу
@@ -1223,6 +1225,7 @@
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Старі клавіші меню: Alt, {keys}. Продовжуйте вводити або натисніть Esc, щоб скасувати.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Увімкнено: каретка плавно переходить на нове місце, коли ви вводите текст або користуєтеся стрілками, а її блимання згасає поступово. Вимкнено: вона перестрибує й блимає різко.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Увімкнено: WordCraft відкривається на сторінці Файл › Основне з порожнім документом, шаблонами та нещодавніми документами. Вимкнено: відкривається порожній документ.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	Раз на день запитувати в GitHub, чи вийшов новіший випуск WordCraft, і показувати сповіщення. Більше нічого не надсилається.
 	One	Один
 	One label per recipient	Одна етикетка на одержувача
 	One line per item. Enter adds an item.	Один рядок на елемент. Enter додає елемент.
@@ -1237,6 +1240,7 @@
 	Only web (http, https) and email (mailto) links can be followed	Можна переходити лише за вебпосиланнями (http, https) і посиланнями на електронну пошту (mailto)
 	Open a document first	Спочатку відкрийте документ
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Відкрити файл власним оглядачем WordCraft, коли системне діалогове вікно файлів не з'являється.
+	Open the release page in your browser	Відкрити сторінку випуску в браузері
 	OpenDocument Text (*.odt)	Текст OpenDocument (*.odt)
 	Opening print dialog…	Відкриття діалогу друку…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	Відтепер файли .docx, .doc, .rtf, .odt і шаблони Word відкриватимуться у WordCraft.
@@ -1699,6 +1703,7 @@
 	Skip Citations and Bibliography	Пропускати цитати й бібліографію
 	Skip Record If	Пропустити запис, якщо
 	Skip Record If…	Пропустити запис, якщо…
+	Skip this version	Пропустити цю версію
 	Slant Down	Нахил униз
 	Slant Up	Нахил угору
 	Small Caps	Малі великі літери
@@ -2019,6 +2024,7 @@
 	WordArt Styles	Стилі WordArt
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft тепер типова програма для документів Word.
+	WordCraft {version} is available.	Доступна версія WordCraft {version}.
 	Words only	Лише слова
 	Wrap Text	Обтікання текстом
 	Wrap Text Sides	Сторони обтікання

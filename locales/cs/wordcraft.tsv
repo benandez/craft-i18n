@@ -364,6 +364,7 @@
 	Check Box Content Control	Ovládací prvek obsahu zaškrtávacího políčka
 	Check Compatibility	Kontrola kompatibility
 	Check for Errors	Vyhledat chyby
+	Check for updates	Kontrolovat aktualizace
 	Check Spelling as You Type	Kontrolovat pravopis při psaní
 	Check spelling as you type	Kontrolovat pravopis při psaní
 	Check\nAccessibility	Kontrola\npřístupnosti
@@ -1406,6 +1407,7 @@
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Staré klávesy nabídek: Alt, {keys}. Pokračujte v psaní, nebo zrušte klávesou Esc.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Zapnuto: kurzor se při psaní nebo použití kláves se šipkami plynule přesune na nové místo a jeho blikání se prolíná. Vypnuto: kurzor přeskakuje a blikání se ostře zapíná a vypíná.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Zapnuto: WordCraft se otevře na kartě Soubor › Domů s prázdným dokumentem, šablonami a nedávnými dokumenty. Vypnuto: otevře prázdný dokument.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	Jednou denně se zeptat GitHubu, zda je venku novější vydání WordCraftu, a zobrazit oznámení. Nic dalšího se neodesílá.
 	One	Jeden
 	One half	Jedna polovina
 	One label per recipient	Jeden štítek na příjemce
@@ -1421,6 +1423,7 @@
 	Only web (http, https) and email (mailto) links can be followed	Otevřít lze pouze webové (http, https) a e-mailové (mailto) odkazy
 	Open a document first	Nejprve otevřete dokument
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Otevřít soubor pomocí vlastního prohlížeče souborů WordCraftu, když se systémový dialog pro práci se soubory nezobrazí.
+	Open the release page in your browser	Otevřít stránku vydání v prohlížeči
 	OpenDocument Text (*.odt)	Text OpenDocument (*.odt)
 	Opening print dialog…	Otevírání dialogu tisku…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	Soubory .docx, .doc, .rtf a .odt a šablony Wordu se od teď otevírají ve WordCraftu.
@@ -1926,6 +1929,7 @@
 	Skip Citations and Bibliography	Přeskakovat citace a bibliografii
 	Skip Record If	Přeskočit záznam, pokud
 	Skip Record If…	Přeskočit záznam, pokud…
+	Skip this version	Přeskočit tuto verzi
 	Slant Down	Zkosení dolů
 	Slant Up	Zkosení nahoru
 	Small caps	Kapitálky
@@ -2307,6 +2311,7 @@ preview	Title	Ukázka
 	WordArt Styles	Styly WordArt
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft je nyní výchozí aplikací pro dokumenty Word.
+	WordCraft {version} is available.	WordCraft {version} je k dispozici.
 	Words only	Pouze slova
 	Wrap Text	Obtékání textu
 	Wrap Text Sides	Strany obtékání textu

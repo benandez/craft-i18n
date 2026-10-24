@@ -359,6 +359,7 @@
 	Check Box Content Control	Элемент управления содержимым: флажок
 	Check Compatibility	Проверить совместимость
 	Check for Errors	Проверить на ошибки
+	Check for updates	Проверять обновления
 	Check Spelling as You Type	Проверять орфографию при вводе
 	Check spelling as you type	Проверять орфографию при вводе
 	Check\nAccessibility	Проверить\nдоступность
@@ -1406,6 +1407,7 @@
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Старые клавиши меню: Alt, {keys}. Продолжайте ввод или нажмите Esc для отмены.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Вкл.: при вводе текста и нажатии клавиш со стрелками курсор плавно перемещается на новое место, а его мигание плавно угасает. Выкл.: курсор перескакивает и резко мигает.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Вкл.: WordCraft открывается на странице Файл › Главная с пустым документом, шаблонами и недавними документами. Выкл.: открывается пустой документ.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	Раз в день спрашивать GitHub, вышла ли новая версия WordCraft, и показывать уведомление. Больше ничего не отправляется.
 	One	Одна
 	One half	Одна вторая
 	One label per recipient	Одна наклейка на получателя
@@ -1421,6 +1423,7 @@
 	Only web (http, https) and email (mailto) links can be followed	Переходить можно только по веб-ссылкам (http, https) и ссылкам на электронную почту (mailto)
 	Open a document first	Сначала откройте документ
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Открыть файл во встроенном обозревателе WordCraft, если системное диалоговое окно выбора файлов не появляется.
+	Open the release page in your browser	Открыть страницу выпуска в браузере
 	OpenDocument Text (*.odt)	Текст OpenDocument (*.odt)
 	Opening print dialog…	Открытие окна печати…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	Отныне файлы .docx, .doc, .rtf и .odt и шаблоны Word будут открываться в WordCraft.
@@ -1926,6 +1929,7 @@
 	Skip Citations and Bibliography	Пропускать ссылки и список литературы
 	Skip Record If	Пропустить запись, если
 	Skip Record If…	Пропустить запись, если…
+	Skip this version	Пропустить эту версию
 	Slant Down	Наклон вниз
 	Slant Up	Наклон вверх
 	Small Caps	Малые прописные
@@ -2309,6 +2313,7 @@ preview	Title	Пример
 	WordArt Styles	Стили WordArt
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft теперь приложение по умолчанию для документов Word.
+	WordCraft {version} is available.	Доступна WordCraft {version}.
 	Words only	Только слова
 	Wrap Text	Обтекание текстом
 	Wrap Text Sides	Стороны обтекания

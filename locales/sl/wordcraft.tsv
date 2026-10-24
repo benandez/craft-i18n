@@ -652,6 +652,7 @@
 	Directory	Imenik
 	Discord	Discord
 	Discord community	Skupnost na Discordu
+	Dismiss	Zapri
 	Display	Prikaz
 	Display for Review	Prikaz za pregled
 	Display text	Prikazano besedilo
@@ -1574,6 +1575,7 @@
 	On	Vklopljeno
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Vklopljeno: kazalec med tipkanjem ali uporabo puščičnih tipk zdrsne na novo mesto, utripanje pa pojema. Izklopljeno: kazalec skoči in utripa.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Vklopljeno: WordCraft se odpre na Datoteka › Osnovno s praznim dokumentom, predlogami in nedavnimi dokumenti. Izklopljeno: odpre prazen dokument.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	Enkrat na dan vprašaj GitHub, ali je izšla novejša različica WordCraft, in prikaži obvestilo. Nič drugega se ne pošlje.
 	One	Ena
 	One half	Polovica
 	One label per recipient	Ena nalepka na prejemnika
@@ -1589,6 +1591,7 @@
 	Only web (http, https) and email (mailto) links can be followed	Slediti je mogoče samo spletnim (http, https) in e-poštnim (mailto) povezavam
 	Open a document first	Najprej odprite dokument
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Odpri datoteko z WordCraftovim brskalnikom, kadar se sistemsko pogovorno okno ne prikaže.
+	Open the release page in your browser	Odpri stran izdaje v brskalniku
 	OpenDocument Text (*.odt)	Besedilo OpenDocument (*.odt)
 	Opening print dialog…	Odpiranje pogovornega okna za tiskanje …
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	Odslej odpira datoteke .docx, .doc, .rtf in .odt ter predloge Word s programom WordCraft.
@@ -2147,6 +2150,7 @@
 	Skip Citations and Bibliography	Preskoči citate in bibliografijo
 	Skip Record If	Preskoči zapis, če
 	Skip Record If…	Preskoči zapis, če …
+	Skip this version	Preskoči to različico
 	Slant Down	Nagib navzdol
 	Slant Up	Nagib navzgor
 	Small Caps	Pomanjšane velike črke
@@ -2574,6 +2578,7 @@ preview	Title	Naslov
 	WordArt Styles	Slogi WordArt
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft je zdaj privzeta aplikacija za dokumente Word.
+	WordCraft {version} is available.	WordCraft {version} je na voljo.
 	Words only	Samo besede
 	Wrap Text	Obtekaj besedilo
 	Wrap Text Sides	Strani obtekanja besedila

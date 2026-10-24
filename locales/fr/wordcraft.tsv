@@ -371,6 +371,7 @@
 	Check Box Content Control	Contrôle de contenu Case à cocher
 	Check Compatibility	Vérifier la compatibilité
 	Check for Errors	Vérifier les erreurs
+	Check for updates	Rechercher les mises à jour
 	Check Spelling as You Type	Vérifier l’orthographe pendant la saisie
 	Check spelling as you type	Vérifier l’orthographe pendant la frappe
 	Check\nAccessibility	Vérifier\nl’accessibilité
@@ -1447,6 +1448,7 @@ template	Letter	Lettre
 	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Anciennes touches de menu : Alt, {keys}. Continuez la saisie ou appuyez sur Échap pour annuler.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Activé : le curseur glisse jusqu’à sa nouvelle position lorsque vous tapez ou utilisez les touches fléchées, et son clignotement s’estompe en douceur. Désactivé : il saute et clignote de façon nette.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Activé : WordCraft s'ouvre sur Fichier › Accueil, avec un document vierge, les modèles et vos documents récents. Désactivé : il ouvre un document vierge.
+	Once a day, ask GitHub whether a newer WordCraft release is out and show a notice. Nothing else is sent.	Une fois par jour, demander à GitHub si une version plus récente de WordCraft est disponible et afficher une notification. Rien d'autre n'est envoyé.
 	One	Un
 	One half	Un demi
 	One label per recipient	Une étiquette par destinataire
@@ -1462,6 +1464,7 @@ template	Letter	Lettre
 	Only web (http, https) and email (mailto) links can be followed	Seuls les liens Web (http, https) et les liens de messagerie (mailto) peuvent être suivis
 	Open a document first	Ouvrez d'abord un document
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Ouvrir un fichier avec le navigateur de fichiers intégré à WordCraft lorsque la boîte de dialogue de fichiers du système n’apparaît pas.
+	Open the release page in your browser	Ouvrir la page de la version dans le navigateur
 	OpenDocument Text (*.odt)	Texte OpenDocument (*.odt)
 	Opening print dialog…	Ouverture de la boîte de dialogue d’impression…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	Ouvre désormais les fichiers .docx, .doc, .rtf et .odt ainsi que les modèles Word avec WordCraft.
@@ -1971,6 +1974,7 @@ template	Letter	Lettre
 	Skip Citations and Bibliography	Ignorer les citations et la bibliographie
 	Skip Record If	Ignorer l’enregistrement si
 	Skip Record If…	Ignorer l’enregistrement si…
+	Skip this version	Ignorer cette version
 	Slant Down	Inclinaison vers le bas
 	Slant Up	Inclinaison vers le haut
 	Small Caps	Petites majuscules
@@ -2362,6 +2366,7 @@ preview	Title	Titre
 	WordArt Styles	Styles WordArt
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	WordCraft est désormais l’application par défaut pour les documents Word.
+	WordCraft {version} is available.	WordCraft {version} est disponible.
 	Words only	Mots uniquement
 	Wrap Text	Habillage du texte
 	Wrap Text Sides	Côtés de l’habillage
