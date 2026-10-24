@@ -17,6 +17,7 @@
 	(normal text)	(normaler Text)
 	(not matched)	(nicht zugeordnet)
 	(picture or object)	(Bild oder Objekt)
+	(space)	(Leerzeichen)
 	0 or More Characters	0 oder mehr Zeichen
 	1. Formatting restrictions	1. Formatierungseinschränkungen
 	1.5 Line Spacing	Zeilenabstand 1,5
@@ -147,6 +148,7 @@
 	Arrange\nAll	Alle\nanordnen
 	Article I.	Artikel I.
 	Artistic Effects	Künstlerische Effekte
+	As in Word	Wie in Word
 	As Recommended	Wie empfohlen
 	As you type	Während der Eingabe
 	Asian text font:	Schriftart für asiatischen Text:
@@ -251,6 +253,7 @@
 	Capitalize first letter of table cells	Jede Tabellenzelle mit einem Großbuchstaben beginnen
 	Capitalize names of days	Wochentage großschreiben
 	Caption Numbering	Beschriftungsnummerierung
+	Caption style:	Beschriftungsformat:
 	Caption text	Beschriftungstext
 	Caption:	Beschriftung:
 	Captions	Beschriftungen
@@ -431,6 +434,7 @@
 	Custom range	Benutzerdefinierter Bereich
 	Custom size	Benutzerdefiniertes Format
 	Custom Table of Contents…	Benutzerdefiniertes Inhaltsverzeichnis…
+	Custom template	Eigene Vorlage
 	Custom Watermark	Benutzerdefiniertes Wasserzeichen
 	Custom Watermark…	Benutzerdefiniertes Wasserzeichen…
 	Customize	Anpassen
@@ -613,9 +617,11 @@
 	Equal to	Gleich
 	Equals:	Ist gleich:
 	Equation	Formel
+	Equation Caption	Formelbeschriftung
 	Equation Gallery	Formelkatalog
 	Equation Info	Formelinfo
 	Equation Number	Formelnummer
+	Equation number	Formelnummer
 	Equation Options	Formeloptionen
 	Erase Ink	Freihand radieren
 	Errors ({n})	Fehler ({n})
@@ -649,6 +655,8 @@
 	Field:	Feld:
 	Field…	Feld…
 	Figure	Abbildung
+	Figure Caption	Abbildungsbeschriftung
+	Figure caption	Abbildungsbeschriftung
 	File locations	Dateispeicherorte
 	File name:	Dateiname:
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Datei › Neu zeigt die .dotx- und .dotm-Vorlagen von hier unter Persönlich; Als Word-Vorlage speichern beginnt hier.
@@ -715,6 +723,7 @@
 	From Bottom Right Corner	Aus Ecke unten rechts
 	From Center	Aus der Mitte
 	From text:	Abstand zum Text:
+	From the style	Aus dem Format
 	From Top Left Corner	Aus Ecke oben links
 	From Top Right Corner	Aus Ecke oben rechts
 	from Unicode (hex)	von Unicode (hexadezimal)
@@ -909,7 +918,11 @@
 	Kerning for fonts:	Unterschneidung für Schriftarten:
 	Keyboard shortcuts:	Tastenkombinationen:
 	Keys for this command:	Tasten für diesen Befehl:
+	Label and number	Bezeichnung und Nummer
 	Label changes with:	Änderungen kennzeichnen mit:
+	Label number – title	Bezeichnung Nummer – Titel
+	Label number. title	Bezeichnung Nummer. Titel
+	Label number: title	Bezeichnung Nummer: Titel
 	Label:	Bezeichnung:
 	Labels	Etiketten
 	Language Preferences…	Spracheinstellungen…
@@ -934,6 +947,7 @@
 	Left border	Linke Rahmenlinie
 	Left indent	Linker Einzug
 	Left Margin	Linker Rand
+	Left of the item	Links vom Objekt
 	Left Only	Nur links
 	Left-to-right	Von links nach rechts
 	Left-to-Right Text Direction	Textrichtung von links nach rechts
@@ -1173,12 +1187,14 @@
 	Number	Nummer
 	Number alignment:	Nummernausrichtung:
 	Number format	Nummernformat
+	Number in parentheses	Nummer in Klammern
 	Number of columns:	Anzahl der Spalten:
 	Number of rows:	Anzahl der Zeilen:
 	Number of the page the field sits on	Nummer der Seite, auf der das Feld steht
 	Number of the section the field sits in	Nummer des Abschnitts, in dem das Feld steht
 	Number only, without the label's words	Nur die Nummer, ohne die Wörter der Beschriftung
 	Number style for this level:	Nummernstil für diese Ebene:
+	Number:	Nummer:
 	Numbering	Nummerierung
 	Numbering:	Nummerierung:
 	Numbering…	Nummerierung…
@@ -1493,6 +1509,7 @@
 	Right border	Rechte Rahmenlinie
 	Right indent	Rechter Einzug
 	Right Margin	Rechter Rand
+	Right of the item	Rechts vom Objekt
 	Right Only	Nur rechts
 	Right-to-left	Von rechts nach links
 	Right-to-Left Section	Abschnitt von rechts nach links
@@ -1768,6 +1785,8 @@
 	Tab leader:	Füllzeichen:
 	Tab stop position:	Tabstoppposition:
 	Tab stops to be cleared:	Zu löschende Tabstopps:
+	Table Caption	Tabellenbeschriftung
+	Table caption	Tabellenbeschriftung
 	Table Column Width	Tabellenspaltenbreite
 	Table Design	Tabellenentwurf
 	Table direction:	Tabellenrichtung:
@@ -1790,6 +1809,7 @@
 	Take the last match on the page	Letzten Treffer auf der Seite nehmen
 	TC entry fields	TC-Eintragsfelder
 	Technology	Technik
+	Template:	Vorlage:
 	Templates and Add-ins	Vorlagen und Add-Ins
 	Templates you save in your templates folder show up here.	Vorlagen, die Sie in Ihrem Vorlagenordner speichern, werden hier angezeigt.
 	Text Box	Textfeld
@@ -1869,6 +1889,7 @@
 	Tips ({n})	Tipps ({n})
 	Title Bar	Titelleiste
 	Title from the document properties	Titel aus den Dokumenteigenschaften
+	Title separator:	Trennzeichen des Titels:
 	Title:	Titel:
 	To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All.	Um Word-Dokumente standardmäßig mit WordCraft zu öffnen: Wählen Sie eines im Finder aus, wählen Sie Ablage › Informationen, wählen Sie WordCraft unter „Öffnen mit“ und klicken Sie auf „Alle ändern“.
 	To:	Bis:

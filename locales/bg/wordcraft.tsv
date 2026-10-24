@@ -17,6 +17,7 @@
 	(normal text)	(нормален текст)
 	(not matched)	(няма съответствие)
 	(picture or object)	(изображение или обект)
+	(space)	(интервал)
 	0 or More Characters	0 или повече знака
 	1. Formatting restrictions	1. Ограничения за форматирането
 	1.5 Line Spacing	Междуредие 1,5
@@ -175,6 +176,7 @@
 	Arrange\nAll	Подреждане\nна всички
 	Article I.	Член I.
 	Artistic Effects	Художествени ефекти
+	As in Word	Като в Word
 	As Recommended	Според препоръките
 	As you type	Докато въвеждате
 	ASAP	СПЕШНО
@@ -296,6 +298,7 @@
 	Capitalize first letter of table cells	Главна буква в началото на клетките на таблици
 	Capitalize names of days	Главни букви в имената на дните
 	Caption Numbering	Номериране на надписите
+	Caption style:	Стил на надписа:
 	Caption text	Текст на надписа
 	Caption:	Надпис:
 	Captions	Надписи
@@ -515,6 +518,7 @@
 	Custom range	Потребителски диапазон
 	Custom size	Потребителски размер
 	Custom Table of Contents…	Потребителско съдържание…
+	Custom template	Собствен шаблон
 	Custom Watermark	Потребителски воден знак
 	Custom Watermark…	Потребителски воден знак…
 	Customize	Персонализиране
@@ -733,9 +737,11 @@
 	Equal to	Равно на
 	Equals:	Е равно на:
 	Equation	Уравнение
+	Equation Caption	Надпис на уравнение
 	Equation Gallery	Галерия с уравнения
 	Equation Info	Информация за уравнението
 	Equation Number	Номер на уравнение
+	Equation number	Номер на уравнение
 	Equation Options	Опции за уравнения
 	Erase Ink	Изтриване на мастило
 	Errors ({n})	Грешки ({n})
@@ -770,6 +776,8 @@
 	Field:	Поле:
 	Field…	Поле…
 	Figure	Фигура
+	Figure Caption	Надпис на фигура
+	Figure caption	Надпис на фигура
 	File locations	Местоположения на файлове
 	File name:	Име на файла:
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Файл › Нов показва шаблоните .dotx и .dotm оттук под Лични; „Запиши като шаблон на Word“ започва оттук.
@@ -839,6 +847,7 @@
 	From Bottom Right Corner	От ъгъла долу вдясно
 	From Center	От центъра
 	From text:	От текста:
+	From the style	От стила
 	From Top Left Corner	От ъгъла горе вляво
 	From Top Right Corner	От ъгъла горе вдясно
 	from Unicode (hex)	от Unicode (шестн.)
@@ -1088,7 +1097,11 @@
 	Kerning for fonts:	Кернинг на шрифтове:
 	Keyboard shortcuts:	Клавишни комбинации:
 	Keys for this command:	Клавиши за тази команда:
+	Label and number	Етикет и номер
 	Label changes with:	Обозначаване на промените с:
+	Label number – title	Етикет номер – заглавие
+	Label number. title	Етикет номер. заглавие
+	Label number: title	Етикет номер: заглавие
 	Label:	Етикет:
 	Language Preferences…	Езикови предпочитания…
 	Large	Големи
@@ -1116,6 +1129,7 @@
 	Left Bracket Twice	Двойна лява скоба
 	Left indent	Ляв отстъп
 	Left Margin	Ляво поле
+	Left of the item	Отляво на обекта
 	Left Only	Само отляво
 	Left Right Arrow Above	Двупосочна стрелка отгоре
 	Left Right Arrow with Text Above	Двупосочна стрелка с текст отгоре
@@ -1386,6 +1400,7 @@
 	Num Occurrences	Брой повторения
 	Number alignment:	Подравняване на номера:
 	Number format	Формат на номера
+	Number in parentheses	Номер в скоби
 	Number of columns:	Брой колони:
 	Number of rows:	Брой редове:
 	Number of the page the field sits on	Номер на страницата, на която е полето
@@ -1393,6 +1408,7 @@
 	Number only, without the label's words	Само номерът, без думите от етикета
 	Number style for this level:	Стил на номериране за това ниво:
 	Number the equation; the number sits at the right margin (or type # then the number)	Номериране на уравнението; номерът стои до дясното поле (или въведете # и номера)
+	Number:	Номер:
 	Numbering	Номериране
 	Numbering:	Номериране:
 	Numbering…	Номериране…
@@ -1738,6 +1754,7 @@
 	Right Bracket Twice	Двойна дясна скоба
 	Right indent	Десен отстъп
 	Right Margin	Дясно поле
+	Right of the item	Отдясно на обекта
 	Right Only	Само отдясно
 	Right-to-left	Отдясно наляво
 	Right-to-Left Section	Раздел отдясно наляво
@@ -2058,6 +2075,8 @@
 	Tab leader:	Водач на табулатора:
 	Tab stop position:	Позиция на табулатора:
 	Tab stops to be cleared:	Позиции на табулатора за изчистване:
+	Table Caption	Надпис на таблица
+	Table caption	Надпис на таблица
 	Table Column Width	Ширина на колона в таблица
 	Table Design	Дизайн на таблица
 	Table direction:	Посока на таблицата:
@@ -2083,6 +2102,7 @@
 	Tangent Function	Функция тангенс
 	TC entry fields	Полета за записи TC
 	Technology	Технологии
+	Template:	Шаблон:
 	Templates and Add-ins	Шаблони и добавки
 	Templates you save in your templates folder show up here.	Шаблоните, които запишете в папката си с шаблони, се показват тук.
 	Text Box	Текстово поле
@@ -2164,6 +2184,7 @@
 	Tips ({n})	Съвети ({n})
 	Title Bar	Заглавна лента
 	Title from the document properties	Заглавието от свойствата на документа
+	Title separator:	Разделител на заглавието:
 	Title:	Заглавие:
 	To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All.	За да се отварят документите на Word с WordCraft по подразбиране: изберете документ във Finder, изберете File › Get Info, изберете WordCraft под Open with и щракнете Change All.
 	To:	До:
